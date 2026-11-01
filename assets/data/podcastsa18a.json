@@ -1,0 +1,291 @@
+[
+  {
+    "title": "The Vinyl Voyage",
+    "host": "MARCUS VANCE",
+    "cover": "images/podcast-hiphop.png",
+    "description": "<p>The Vinyl Voyage is a deep exploration into the golden era of physical music media, tracing the evolution of analog sound from vintage pressings to modern revivals. Host Marcus Vance invites listeners into a sonic time capsule, exploring rare grooves, dusty crates, and forgotten studio sessions that defined a century of musical history. This podcast is dedicated to the warmth, the pops, the cracks, and the physical beauty of vinyl records.</p><p>Each episode focuses on a specific subculture, legendary pressing plant, or obscure record store that helped keep the spirit of analog music alive against all odds. We dive deep into the technical specifications of vintage turntables, the history of cover art design, and the personal journeys of obsessive collectors who spend their lives digging for the ultimate track. Expect exclusive interviews with sound engineers, record store owners, and musicians who still believe in the magic of the wax.</p><p>From the birth of stereo sound to the modern resurgence of limited edition pressings, Marcus Vance guides you through the stories behind the grooves that shaped generations of listeners and continues to inspire music lovers today.</p><p>We will also explore the complex economics of the modern vinyl market, looking at why small indie artists struggle to get their records pressed in a world dominated by massive commercial reissues. Marcus breaks down the environmental impact of vinyl production and the rise of new, eco-friendly compounds that promise to keep our listening habits sustainable without sacrificing that classic analog sound quality.</p><p>Through field recordings at bustling flea markets in Tokyo, legendary record fairs in Utrecht, and hidden warehouses in Detroit, this show brings the physical world of record digging straight to your headphones. You will hear the actual sounds of cardboard sleeves shuffling and needles dropping, creating an immersive experience that celebrates the community of vinyl collectors worldwide.</p><p>Whether you are a seasoned audiophile with a dedicated listening room or a curious newcomer who just bought their first entry-level turntable, The Vinyl Voyage offers a wealth of knowledge, nostalgia, and inspiration to fuel your musical journey.</p>",
+    "episodes": [
+      {
+        "title": "Episode 45: Obscure Soul Pressings of 1974",
+        "date": "10/18/2025",
+        "excerpt": "Marcus Vance investigates the rare 1970s soul releases from Chicago's independent labels, focusing on hidden vocal gems and unique basslines.",
+        "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3",
+        "image": "images/4-hip_hop.jpg"
+      },
+      {
+        "title": "Episode 44: The Mystery of the Missing Masters",
+        "date": "10/11/2025",
+        "excerpt": "A deep dive into the legendary lost master tapes of 1960s jazz clubs and how a storage fire in London almost erased a decade of genius.",
+        "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8",
+        "image": "images/10-hip_hop.jpg"
+      },
+      {
+        "title": "Episode 43: Japanese Ambient in the 80s",
+        "date": "10/04/2025",
+        "excerpt": "We examine the rise of environmental music in Tokyo, exploring how minimalism and corporate architecture birthed a new sonic movement.",
+        "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3",
+        "image": "images/7-hip_hop.jpg"
+      },
+      {
+        "title": "Episode 42: Detroit Techno's Earliest Wax",
+        "date": "09/27/2025",
+        "excerpt": "An exploration of the DIY labels that pressed the very first techno records, redefining industrial sounds on a budget.",
+        "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8",
+        "image": "images/9-hip_hop.jpg"
+      },
+      {
+        "title": "Episode 41: The Art of the B-Side",
+        "date": "09/20/2025",
+        "excerpt": "Discussing the history of single releases where the B-side tracks went on to achieve greater cult status than the primary A-sides.",
+        "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3",
+        "image": "images/8-hip_hop.jpg"
+      },
+      {
+        "title": "Episode 40: Bootleg Culture of the 90s",
+        "date": "09/13/2025",
+        "excerpt": "How illegal live recordings and unofficial presses shaped the alternative rock scene, connecting distant fans to stadium shows.",
+        "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8",
+        "image": "images/podcast-hiphop.png"
+      }
+    ]
+  },
+  {
+    "title": "Frequency Shift",
+    "host": "ELENA ROSTOVA",
+    "cover": "images/podcast-runcast.png",
+    "description": "<p>Frequency Shift explores the cutting edge of electronic music, synthesizers, and the underground club culture that thrives in the shadows of the digital age. Host Elena Rostova guides listeners through modular synth patches, ambient soundscapes, and driving rhythms that break conventional rules. This podcast bridges the gap between hardware geeks and late-night dancers who seek deeper meaning in electronic waves.</p><p>We examine the history of synthesizer development, from the massive vintage setups of the 1970s to modern microchips and custom-built software. Elena speaks with sound designers, ambient composers, and underground DJs about their creative routines, hardware preferences, and the philosophical aspects of creating music from pure electricity. It is an exploration of how electronic instruments have democratized music production globally.</p><p>Join us each week for technical breakdowns, exclusive synth demos, and atmospheric mixes that will transport you to a neon-lit, futuristic city. Discover the frequencies that shape our future.</p><p>Beyond the technical jargon of oscillators, filters, and envelope generators, Elena investigates the cultural and political significance of electronic music safe spaces. We examine how club culture has historically served as a sanctuary for marginalized communities and a catalyst for social change in cities like Berlin, Chicago, and London.</p><p>We also demystify the art of live electronic performance, comparing the intense focus required to manage a table full of hardware drum machines and desktop synths with the traditional art of DJing. Elena shares her personal guide to building your first compact setup without spending a fortune, encouraging listeners to start experimenting with sound synthesis at home.</p><p>From the early academic experiments with electronic tones to the massive warehouses of the rave revolution, this podcast tracks the relentless march of technological innovation and its impact on how we perceive, create, and experience music.</p>",
+    "episodes": [
+      {
+        "title": "Episode 32: The Modular Mindset",
+        "date": "11/14/2025",
+        "excerpt": "Elena Rostova talks with modular artists about the unpredictability of patching cables and finding beauty in analog accidents.",
+        "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3",
+        "image": "images/podcast-runcast.png"
+      },
+      {
+        "title": "Episode 31: Soundscapes of the Polar Circle",
+        "date": "11/01/2025",
+        "excerpt": "Analyzing how remote, frozen landscapes inspire minimalist electronic composers to create vast, cold, yet emotional ambient works.",
+        "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8",
+        "image": "images/podcast-runcast.png"
+      },
+      {
+        "title": "Episode 30: History of the Drum Machine",
+        "date": "10/19/2025",
+        "excerpt": "From simple rhythm boxes to the legendary units that birthed house and techno, we trace the impact of automated percussion on popular music.",
+        "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3",
+        "image": "images/podcast-runcast.png"
+      }
+    ]
+  },
+  {
+    "title": "Echo Chamber",
+    "host": "LIAM FLETCHER",
+    "cover": "images/podcast-kurt.png",
+    "description": "<p>Echo Chamber is a deep dive into the roots of dub, reggae, and the massive sound system cultures that originated in Kingston and transformed global bass music. Host Liam Fletcher explores how simple delay lines, spring reverbs, and heavy basslines became tools for social commentary and artistic freedom. This series celebrates the pioneers who took the mixing board and played it like an instrument.</p><p>We look at the history of street dances, the engineering behind custom speaker boxes, and the political struggles that were voiced through heavy rhythms. Liam breaks down the techniques of legendary dub masters, showing how a minimalist approach to arrangement can create infinite sonic depth. Expect rare dubplates, deep bass theory, and stories from the frontlines of sound system clashes.</p><p>From vintage tape loops to modern digital dub, this podcast shows how a tiny island's musical innovations forever altered hip-hop, jungle, and modern electronic production.</p><p>In addition to historical context, we explore the physical physics of low frequencies and how deep sub-bass affects the human body and mind. Liam interviews acoustic engineers and sound technicians about the challenge of balancing raw acoustic power with pristine audio clarity in outdoor venues and warehouse parties.</p><p>We also follow the global spread of sound system culture to countries like Japan, Brazil, and France, showing how local communities adapt Jamaican traditions to voice their own contemporary struggles. Through exclusive recordings of live sound clashes and interviews with sound system crews, you will experience the intense rivalries and deep respect that define this underground community.</p><p>Echo Chamber is a sonic masterclass in the art of subtraction, demonstrating how leaving space in a mix can create a more powerful emotional and physical impact than any wall of sound ever could.</p>",
+    "episodes": [
+      {
+        "title": "Episode 18: Spring Reverb & Tape Echo",
+        "date": "09/01/2025",
+        "excerpt": "Liam Fletcher explains the mechanics behind vintage studio gear and how physical space was simulated to create the dub signature sound.",
+        "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3",
+        "image": "images/podcast-kurt.png"
+      },
+      {
+        "title": "Episode 17: Sound System UK Origins",
+        "date": "08/15/2025",
+        "excerpt": "We trace how Caribbean immigrants brought sound system culture to London, creating a unique British reggae and dub identity.",
+        "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8",
+        "image": "images/podcast-kurt.png"
+      },
+      {
+        "title": "Episode 16: The Art of the Dubplate",
+        "date": "08/01/2025",
+        "excerpt": "Exploring the exclusive, one-off acetates that DJs used to win clashes, and how dubplates became the ultimate weapon in street dances.",
+        "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3",
+        "image": "images/podcast-kurt.png"
+      },
+      {
+        "title": "Episode 15: Heavy Bass Physics",
+        "date": "07/15/2025",
+        "excerpt": "An investigation into why sub-bass frequencies affect the human body and how sound system builders optimize physical vibration.",
+        "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8",
+        "image": "images/podcast-kurt.png"
+      },
+      {
+        "title": "Episode 14: Kingston Studio History",
+        "date": "07/01/2025",
+        "excerpt": "Looking back at the legendary studios where 4-track recorders were pushed to their absolute limits to capture immortal rhythms.",
+        "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3",
+        "image": "images/podcast-kurt.png"
+      }
+    ]
+  },
+  {
+    "title": "Beatmaker's Diary",
+    "host": "KOFI OWUSU",
+    "cover": "images/podcast-spaceship.png",
+    "description": "<p>Beatmaker's Diary is an intimate look into the bedrooms, basements, and home studios where modern hip-hop beats and lo-fi instrumentals are crafted. Host Kofi Owusu breaks down the creative process of independent beatmakers from around the globe. This podcast is a celebration of sample flipping, MPC sequencing, and the dedication required to loop a perfect breakbeat.</p><p>We discuss the transition from analog hardware to digital workstations, the legal complexities of sampling, and the unique online communities that share beats. Kofi interviews young producers about their inspirations, how they find obscure samples in foreign music catalogs, and the simple setups they use to create chart-topping instrumentals. It is a masterclass in rhythm, swing, and sonic texture.</p><p>Whether you are a seasoned producer looking for hardware tips or a listener who loves instrumental hip-hop, Beatmaker's Diary is your front-row seat to the modern beat scene.</p><p>We will examine the fascinating history of the breakbeat, tracing how a few seconds of a drum solo recorded in the 1960s became the DNA for hip-hop, drum and bass, and modern pop music. Kofi analyzes the subtle difference in timing and quantization that separates a head-nodding groove from a stiff, robotic beat.</p><p>The podcast also addresses the mental health and economic challenges faced by bedroom producers in the era of streaming algorithms. We discuss how to stay creative when producing music alone for hours, how to navigate contracts with independent labels, and how to build a loyal audience without compromising your artistic vision.</p><p>Join us as we explore the tools of the trade, from vintage 12-bit samplers with limited memory to unlimited digital software, proving that creativity and limitations often go hand in hand.</p>",
+    "episodes": [
+      {
+        "title": "Episode 24: Flipping International Jazz",
+        "date": "07/18/2025",
+        "excerpt": "Kofi Owusu explores how producers find rare European and Asian jazz records online to create rich, emotive hip-hop loops.",
+        "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3",
+        "image": "images/podcast-spaceship.png"
+      },
+      {
+        "title": "Episode 23: The Swing of the MPC",
+        "date": "06/05/2025",
+        "excerpt": "We analyze why certain vintage samplers have a unique timing swing and how it defined the sound of 90s hip-hop production.",
+        "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8",
+        "image": "images/podcast-spaceship.png"
+      }
+    ]
+  },
+  {
+    "title": "Rebel Chords",
+    "host": "CLARA VANCE",
+    "cover": "images/podcast-hiphop.png",
+    "description": "<p>Rebel Chords documents the loud, aggressive, and poetic history of independent punk, post-punk, and alternative rock movements that challenged societal norms. Host Clara Vance examines how raw attitude and three simple chords became a global voice for youth rebellion and social change. From basement shows to independent label empires, this is the story of DIY music history.</p><p>We explore the fanzines, the indie distribution networks, and the political movements that were born alongside noisy guitars. Clara analyzes the sonic progression from early garage rock to complex post-punk structures and noise rock experimentations. Every episode features deep discussions on the ethics of independence and the struggle to stay true to DIY values.</p><p>Turn up the volume and join us as we revisit the anthems, the riots, and the artistic breakthroughs that proved music can change the status quo.</p><p>We also take a look at the essential role of independent record labels that risked everything to release music that major labels found too dangerous or unmarketable. Clara shares stories of financial struggles, print shop runs for DIY album covers, and the tight-knit networks of bands that organized national tours using nothing but landline phones and paper maps.</p><p>From the riot grrrl movement that reclaimed space for women in the punk scene to the post-hardcore bands that laid the groundwork for modern indie rock, we discuss the evolution of protest music and its continued relevance in today's political climate.</p><p>Rebel Chords is not just a history lesson; it is an inspiration for active creators today, demonstrating that you do not need expensive gear or corporate backing to make your voice heard and build a community around your art.</p>",
+    "episodes": [
+      {
+        "title": "Episode 12: Noise Rock Pioneers",
+        "date": "12/01/2025",
+        "excerpt": "Clara Vance explores the bands that rejected traditional melodies in favor of feedback, distortion, and industrial rhythms.",
+        "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3",
+        "image": "images/podcast-hiphop.png"
+      },
+      {
+        "title": "Episode 11: The Fanzine Revolution",
+        "date": "11/15/2025",
+        "excerpt": "How self-published paper magazines connected underground music scenes before the internet, distributing ideas along with music.",
+        "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8",
+        "image": "images/podcast-hiphop.png"
+      },
+      {
+        "title": "Episode 10: Post-Punk Basslines",
+        "date": "10/05/2025",
+        "excerpt": "An analysis of how the bass guitar moved from the background to the front, defining the dark, driving sound of post-punk.",
+        "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3",
+        "image": "images/podcast-hiphop.png"
+      }
+    ]
+  },
+  {
+    "title": "Cosmic Resonance",
+    "host": "JULIAN ORION",
+    "cover": "images/podcast-spaceship.png",
+    "description": "<p>Cosmic Resonance is a weekly transmission exploring space rock, krautrock, and retro-futuristic synthesizers that seek to replicate the infinite void of the universe. Host Julian Orion curates a journey through sweeping analog pads, motorik drums, and atmospheric soundscapes inspired by science fiction and space exploration. This is the soundtrack for traveling through distant star systems.</p><p>We examine how early electronic musicians used primitive oscillators to mimic the sounds of planetary orbits and interstellar communication. Julian talks with modern synthwave composers and ambient artists about how science fiction literature and space science influence their chord progressions and sound design. Every episode is a mix of educational history and deep sonic meditation.</p><p>Prepare for liftoff, set your coordinates, and let the cosmic waves wash over you. The universe is waiting.</p><p>We also investigate the deep connection between the rise of the synthesizer and the public's fascination with the Space Race in the late 20th century. Julian explains how film composers used Theremins and early modular systems to define what outer space 'sounds' like, creating a new sonic vocabulary for generations of science fiction films.</p><p>Through special episodes dedicated to planetary alignments, solar flares, and deep-space telescope images, we translate astronomical data into musical compositions, exploring the boundary between science and art. We listen to the actual radio signals emitted by pulsars and black holes, integrating these cosmic echoes into our weekly playlists.</p><p>Whether you use this music as a background for focused work or as a soundtrack for late-night stargazing, Cosmic Resonance provides a portal to the stars through the medium of sound.</p>",
+    "episodes": [
+      {
+        "title": "Transmission 55: German Krautrock Echoes",
+        "date": "05/10/2025",
+        "excerpt": "Julian Orion reviews the hypnotic motorik rhythms that emerged in 1970s Germany, blending rock with experimental electronics.",
+        "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3",
+        "image": "images/podcast-spaceship.png"
+      },
+      {
+        "title": "Transmission 54: Neon Lights and Cyberpunk",
+        "date": "04/24/2025",
+        "excerpt": "A high-energy ride through synthwave and cyberpunk tracks inspired by retro sci-fi films and dystopian cityscapes.",
+        "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8",
+        "image": "images/podcast-spaceship.png"
+      }
+    ]
+  },
+  {
+    "title": "Under The Grid",
+    "host": "MAYA LIN",
+    "cover": "images/podcast-runcast.png",
+    "description": "<p>Under The Grid shines a spotlight on the global indie rock and shoegaze scenes, celebrating bands that trade in walls of guitar noise, dream-like vocals, and bittersweet melodies. Host Maya Lin explores the independent labels and underground communities that support guitar-driven music in the 21st century. It is a refuge for lovers of chorus pedals and fuzzy distortion.</p><p>We examine the history of shoegaze production techniques, looking at how delay pedals and reverse reverbs are used to turn guitars into orchestral soundscapes. Maya interviews emerging bands from across the globe, discussing the challenges of touring independently, the process of self-recording, and the songwriting behind modern dream-pop. It is an honest look at the DIY rock scene.</p><p>Find your next favorite band and join the community that keeps the spirit of alternative guitar music alive and loud.</p><p>We also look at the physical toll and financial reality of being a touring musician in the modern era, examining how rising venue fees and merchandise cuts affect independent bands. Maya talks with tour managers and promoters about building sustainable touring circuits that support local venues and artists.</p><p>The podcast dive into the art of the pedalboard, featuring technical segments where guitarists explain their signal chains, custom modifications, and how they use feedback as a creative tool. We discuss the transition from vintage analog gear to digital emulations, comparing the warmth of old circuits with the convenience of modern software.</p><p>Under The Grid is a celebration of distortion, reverb, and the simple joy of pluging in a guitar and making as much beautiful noise as possible with your best friends.</p>",
+    "episodes": [
+      {
+        "title": "Episode 28: Chorus and Distortion",
+        "date": "03/12/2025",
+        "excerpt": "Maya Lin dissects the signature guitar setups of modern shoegaze, showing how simple gear can create massive walls of sound.",
+        "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3",
+        "image": "images/podcast-runcast.png"
+      },
+      {
+        "title": "Episode 27: Dream-Pop Melodies",
+        "date": "02/15/2025",
+        "excerpt": "We analyze the nostalgic chord progressions and airy vocal production that define the sweetest side of independent rock.",
+        "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8",
+        "image": "images/podcast-runcast.png"
+      }
+    ]
+  },
+  {
+    "title": "Sound and Sanctuary",
+    "host": "SARAH STERLING",
+    "cover": "images/podcast-kurt.png",
+    "description": "<p>Sound and Sanctuary explores the therapeutic, meditative, and spiritual dimensions of sound and music. Host Sarah Sterling takes listeners on a journey through ambient music, acoustic field recordings, and deep listening practices that help us find peace in a chaotic world. This podcast is a gentle reminder that sound can be a sanctuary for the mind and soul.</p><p>We discuss the science of acoustic ecology, the psychological benefits of natural soundscapes, and the history of drone and minimalist music. Sarah invites composers, music therapists, and sound artists to share their stories of healing and recovery through creative listening. Expect field recordings of rainforests, oceans, and quiet temples combined with soothing electronic pads.</p><p>Close your eyes, take a deep breath, and let the sounds guide you to a place of inner calm and deep reflection.</p><p>We will examine the concept of the 'soundscape' and how the noise pollution of modern cities affects our nervous systems. Sarah shares practical exercises for active listening in your daily life, showing how paying attention to the sounds around you can reduce stress and increase mindfulness without any special equipment.</p><p>The podcast also explores the rich history of ambient music, from the early classical compositions of Erik Satie to the electronic masterpieces of Brian Eno and modern generative sound apps. We discuss the philosophy of music that is designed to be 'as ignorable as it is interesting,' looking at how it can change our perception of space and time.</p><p>Through special extended episodes with no voiceover, Sound and Sanctuary provides raw, high-quality recordings of natural environments that you can use for meditation, sleep, or deep concentration.</p>",
+    "episodes": [
+      {
+        "title": "Session 88: Rainforest Acoustic Ecology",
+        "date": "12/04/2025",
+        "excerpt": "Sarah Sterling shares field recordings from the Amazon basin, discussing how complex bird songs and rain create natural harmony.",
+        "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3",
+        "image": "images/podcast-kurt.png"
+      },
+      {
+        "title": "Session 87: The Power of the Drone",
+        "date": "11/20/2025",
+        "excerpt": "An exploration of minimalist drone music and how long, sustained musical tones can help the brain enter a meditative state.",
+        "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8",
+        "image": "images/podcast-kurt.png"
+      }
+    ]
+  },
+  {
+    "title": "Rhythm & Run",
+    "host": "VIKTOR VANCE",
+    "cover": "images/podcast-runcast.png",
+    "description": "<p>Rhythm & Run is the ultimate training partner for athletes, runners, and anyone seeking physical motivation and high-energy music. Host Viktor Vance combines uptempo indie rock, driving house beats, and inspiring stories to help you find your stride and keep moving forward. This is more than a playlist; it is a community dedicated to mental and physical fitness.</p><p>We discuss running tips, endurance training, and the psychology of pushing through physical walls. Viktor shares listener stories of triumphs and struggles, connecting runners from all over the world through the shared language of movement. The music is carefully selected to match high heart rates and steady paces, keeping you energized from the first step to the final sprint.</p><p>Lace up your running shoes, set your target, and let us keep you company on your journey to a healthier, stronger self.</p><p>We also discuss the science of music and sports performance, explaining how syncopated beats and specific BPM ranges can increase endurance, reduce perceived effort, and help athletes stay in the 'flow state' longer. Viktor interviews sports psychologists and coaches about the role of mental focus in long-distance running.</p><p>The podcast features regular segments on injury prevention, nutrition, and gear reviews, helping you make informed decisions about your training. We celebrate the diverse stories of our community, from runners completing their very first 5K to ultra-marathoners pushing their boundaries in remote deserts.</p><p>Rhythm & Run is your companion through every mile, reminding you that every step you take is a victory for your body and your mind.</p>",
+    "episodes": [
+      {
+        "title": "Run 105: Chasing the Sunrise",
+        "date": "11/12/2025",
+        "excerpt": "Viktor Vance delivers a high-tempo mix of synth-pop and indie rock to power your early morning runs, featuring advice on steady pacing.",
+        "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3",
+        "image": "images/podcast-runcast.png"
+      },
+      {
+        "title": "Run 104: The Steady Rhythm",
+        "date": "10/22/2025",
+        "excerpt": "Find your ideal stride with a selection of driving electronic beats and melodic guitars designed for long-distance endurance sessions.",
+        "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8",
+        "image": "images/podcast-runcast.png"
+      },
+      {
+        "title": "Run 103: Climbing the Elevation",
+        "date": "09/15/2025",
+        "excerpt": "A steady, heavy rhythm section to keep your legs moving up steep inclines, mixed with motivational quotes from ultra-marathon runners.",
+        "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3",
+        "image": "images/podcast-runcast.png"
+      },
+      {
+        "title": "Run 102: Cold Air Miles",
+        "date": "08/01/2025",
+        "excerpt": "Warm up with an upbeat selection of indie rock anthems and driving drum beats, designed to make cold winter running feel warm.",
+        "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8",
+        "image": "images/podcast-runcast.png"
+      },
+      {
+        "title": "Run 101: The Long Weekend Run",
+        "date": "07/10/2025",
+        "excerpt": "An extended, deep mix of progressive house and ambient rock to keep you company during long, slow training runs.",
+        "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3",
+        "image": "images/podcast-runcast.png"
+      },
+      {
+        "title": "Run 100: Celebration Sprint",
+        "date": "06/20/2025",
+        "excerpt": "Celebrating 100 runs with guest stories, upbeat fan-favorite tracks from previous sessions, and a message on running for mental health.",
+        "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8",
+        "image": "images/podcast-runcast.png"
+      }
+    ]
+  }
+]

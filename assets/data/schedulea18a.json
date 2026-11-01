@@ -1,0 +1,408 @@
+{
+  "0": [
+    {
+      "timeLabel": "5:00 AM - 7:00 AM",
+      "startHour": 5,
+      "endHour": 7,
+      "isDaytime": true,
+      "djId": 6
+    },
+    {
+      "timeLabel": "7:00 AM - 10:00 AM",
+      "startHour": 7,
+      "endHour": 10,
+      "isDaytime": true,
+      "djId": 7
+    },
+    {
+      "timeLabel": "10:00 AM - 1:00 PM",
+      "startHour": 10,
+      "endHour": 13,
+      "isDaytime": true,
+      "djId": 3
+    },
+    {
+      "timeLabel": "1:00 PM - 4:00 PM",
+      "startHour": 13,
+      "endHour": 16,
+      "isDaytime": true,
+      "djId": 4
+    },
+    {
+      "timeLabel": "4:00 PM - 7:00 PM",
+      "startHour": 16,
+      "endHour": 19,
+      "isDaytime": false,
+      "djId": 1
+    },
+    {
+      "timeLabel": "7:00 PM - 10:00 PM",
+      "startHour": 19,
+      "endHour": 22,
+      "isDaytime": false,
+      "djId": 8
+    },
+    {
+      "timeLabel": "10:00 PM - 1:00 AM",
+      "startHour": 22,
+      "endHour": 1,
+      "isDaytime": false,
+      "djId": 2
+    },
+    {
+      "timeLabel": "1:00 AM - 5:00 AM",
+      "startHour": 1,
+      "endHour": 5,
+      "isDaytime": false,
+      "djId": 5
+    }
+  ],
+  "1": [
+    {
+      "timeLabel": "5:00 AM - 7:00 AM",
+      "startHour": 5,
+      "endHour": 7,
+      "isDaytime": true,
+      "djId": 1
+    },
+    {
+      "timeLabel": "7:00 AM - 10:00 AM",
+      "startHour": 7,
+      "endHour": 10,
+      "isDaytime": true,
+      "djId": 2
+    },
+    {
+      "timeLabel": "10:00 AM - 1:00 PM",
+      "startHour": 10,
+      "endHour": 13,
+      "isDaytime": true,
+      "djId": 3
+    },
+    {
+      "timeLabel": "1:00 PM - 4:00 PM",
+      "startHour": 13,
+      "endHour": 16,
+      "isDaytime": true,
+      "djId": 4
+    },
+    {
+      "timeLabel": "4:00 PM - 7:00 PM",
+      "startHour": 16,
+      "endHour": 19,
+      "isDaytime": false,
+      "djId": 5
+    },
+    {
+      "timeLabel": "7:00 PM - 10:00 PM",
+      "startHour": 19,
+      "endHour": 22,
+      "isDaytime": false,
+      "djId": 6
+    },
+    {
+      "timeLabel": "10:00 PM - 1:00 AM",
+      "startHour": 22,
+      "endHour": 1,
+      "isDaytime": false,
+      "djId": 7
+    },
+    {
+      "timeLabel": "1:00 AM - 5:00 AM",
+      "startHour": 1,
+      "endHour": 5,
+      "isDaytime": false,
+      "djId": 8
+    }
+  ],
+  "2": [
+    {
+      "timeLabel": "5:00 AM - 7:00 AM",
+      "startHour": 5,
+      "endHour": 7,
+      "isDaytime": true,
+      "djId": 5
+    },
+    {
+      "timeLabel": "7:00 AM - 10:00 AM",
+      "startHour": 7,
+      "endHour": 10,
+      "isDaytime": true,
+      "djId": 6
+    },
+    {
+      "timeLabel": "10:00 AM - 1:00 PM",
+      "startHour": 10,
+      "endHour": 13,
+      "isDaytime": true,
+      "djId": 7
+    },
+    {
+      "timeLabel": "1:00 PM - 4:00 PM",
+      "startHour": 13,
+      "endHour": 16,
+      "isDaytime": true,
+      "djId": 8
+    },
+    {
+      "timeLabel": "4:00 PM - 7:00 PM",
+      "startHour": 16,
+      "endHour": 19,
+      "isDaytime": false,
+      "djId": 1
+    },
+    {
+      "timeLabel": "7:00 PM - 10:00 PM",
+      "startHour": 19,
+      "endHour": 22,
+      "isDaytime": false,
+      "djId": 2
+    },
+    {
+      "timeLabel": "10:00 PM - 1:00 AM",
+      "startHour": 22,
+      "endHour": 1,
+      "isDaytime": false,
+      "djId": 3
+    },
+    {
+      "timeLabel": "1:00 AM - 5:00 AM",
+      "startHour": 1,
+      "endHour": 5,
+      "isDaytime": false,
+      "djId": 4
+    }
+  ],
+  "3": [
+    {
+      "timeLabel": "5:00 AM - 7:00 AM",
+      "startHour": 5,
+      "endHour": 7,
+      "isDaytime": true,
+      "djId": 2
+    },
+    {
+      "timeLabel": "7:00 AM - 10:00 AM",
+      "startHour": 7,
+      "endHour": 10,
+      "isDaytime": true,
+      "djId": 3
+    },
+    {
+      "timeLabel": "10:00 AM - 1:00 PM",
+      "startHour": 10,
+      "endHour": 13,
+      "isDaytime": true,
+      "djId": 4
+    },
+    {
+      "timeLabel": "1:00 PM - 4:00 PM",
+      "startHour": 13,
+      "endHour": 16,
+      "isDaytime": true,
+      "djId": 5
+    },
+    {
+      "timeLabel": "4:00 PM - 7:00 PM",
+      "startHour": 16,
+      "endHour": 19,
+      "isDaytime": false,
+      "djId": 6
+    },
+    {
+      "timeLabel": "7:00 PM - 10:00 PM",
+      "startHour": 19,
+      "endHour": 22,
+      "isDaytime": false,
+      "djId": 7
+    },
+    {
+      "timeLabel": "10:00 PM - 1:00 AM",
+      "startHour": 22,
+      "endHour": 1,
+      "isDaytime": false,
+      "djId": 8
+    },
+    {
+      "timeLabel": "1:00 AM - 5:00 AM",
+      "startHour": 1,
+      "endHour": 5,
+      "isDaytime": false,
+      "djId": 1
+    }
+  ],
+  "4": [
+    {
+      "timeLabel": "5:00 AM - 7:00 AM",
+      "startHour": 5,
+      "endHour": 7,
+      "isDaytime": true,
+      "djId": 3
+    },
+    {
+      "timeLabel": "7:00 AM - 10:00 AM",
+      "startHour": 7,
+      "endHour": 10,
+      "isDaytime": true,
+      "djId": 4
+    },
+    {
+      "timeLabel": "10:00 AM - 1:00 PM",
+      "startHour": 10,
+      "endHour": 13,
+      "isDaytime": true,
+      "djId": 5
+    },
+    {
+      "timeLabel": "1:00 PM - 4:00 PM",
+      "startHour": 13,
+      "endHour": 16,
+      "isDaytime": true,
+      "djId": 6
+    },
+    {
+      "timeLabel": "4:00 PM - 7:00 PM",
+      "startHour": 16,
+      "endHour": 19,
+      "isDaytime": false,
+      "djId": 7
+    },
+    {
+      "timeLabel": "7:00 PM - 10:00 PM",
+      "startHour": 19,
+      "endHour": 22,
+      "isDaytime": false,
+      "djId": 8
+    },
+    {
+      "timeLabel": "10:00 PM - 1:00 AM",
+      "startHour": 22,
+      "endHour": 1,
+      "isDaytime": false,
+      "djId": 1
+    },
+    {
+      "timeLabel": "1:00 AM - 5:00 AM",
+      "startHour": 1,
+      "endHour": 5,
+      "isDaytime": false,
+      "djId": 2
+    }
+  ],
+  "5": [
+    {
+      "timeLabel": "5:00 AM - 7:00 AM",
+      "startHour": 5,
+      "endHour": 7,
+      "isDaytime": true,
+      "djId": 4
+    },
+    {
+      "timeLabel": "7:00 AM - 10:00 AM",
+      "startHour": 7,
+      "endHour": 10,
+      "isDaytime": true,
+      "djId": 5
+    },
+    {
+      "timeLabel": "10:00 AM - 1:00 PM",
+      "startHour": 10,
+      "endHour": 13,
+      "isDaytime": true,
+      "djId": 6
+    },
+    {
+      "timeLabel": "1:00 PM - 4:00 PM",
+      "startHour": 13,
+      "endHour": 16,
+      "isDaytime": true,
+      "djId": 7
+    },
+    {
+      "timeLabel": "4:00 PM - 7:00 PM",
+      "startHour": 16,
+      "endHour": 19,
+      "isDaytime": false,
+      "djId": 8
+    },
+    {
+      "timeLabel": "7:00 PM - 10:00 PM",
+      "startHour": 19,
+      "endHour": 22,
+      "isDaytime": false,
+      "djId": 1
+    },
+    {
+      "timeLabel": "10:00 PM - 1:00 AM",
+      "startHour": 22,
+      "endHour": 1,
+      "isDaytime": false,
+      "djId": 2
+    },
+    {
+      "timeLabel": "1:00 AM - 5:00 AM",
+      "startHour": 1,
+      "endHour": 5,
+      "isDaytime": false,
+      "djId": 3
+    }
+  ],
+  "6": [
+    {
+      "timeLabel": "5:00 AM - 7:00 AM",
+      "startHour": 5,
+      "endHour": 7,
+      "isDaytime": true,
+      "djId": 7
+    },
+    {
+      "timeLabel": "7:00 AM - 10:00 AM",
+      "startHour": 7,
+      "endHour": 10,
+      "isDaytime": true,
+      "djId": 8
+    },
+    {
+      "timeLabel": "10:00 AM - 1:00 PM",
+      "startHour": 10,
+      "endHour": 13,
+      "isDaytime": true,
+      "djId": 1
+    },
+    {
+      "timeLabel": "1:00 PM - 4:00 PM",
+      "startHour": 13,
+      "endHour": 16,
+      "isDaytime": true,
+      "djId": 2
+    },
+    {
+      "timeLabel": "4:00 PM - 7:00 PM",
+      "startHour": 16,
+      "endHour": 19,
+      "isDaytime": false,
+      "djId": 3
+    },
+    {
+      "timeLabel": "7:00 PM - 10:00 PM",
+      "startHour": 19,
+      "endHour": 22,
+      "isDaytime": false,
+      "djId": 4
+    },
+    {
+      "timeLabel": "10:00 PM - 1:00 AM",
+      "startHour": 22,
+      "endHour": 1,
+      "isDaytime": false,
+      "djId": 5
+    },
+    {
+      "timeLabel": "1:00 AM - 5:00 AM",
+      "startHour": 1,
+      "endHour": 5,
+      "isDaytime": false,
+      "djId": 6
+    }
+  ]
+}

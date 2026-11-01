@@ -1,0 +1,464 @@
+{
+  "Jazz": [
+    {
+      "name": "Smooth Jazz Cafe",
+      "subtitle": "Late Night Sessions",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR22_s01AAC.aac?station=jazz-1",
+      "image": "images/vinil/jazz/jazz-1.png",
+      "plays": 1235,
+      "likes": 84
+    },
+    {
+      "name": "Midnight Blue Jazz",
+      "subtitle": "Chill & Relax",
+      "url": "https://101smoothjazz.cdnstream1.com/b22139_128mp3",
+      "image": "images/vinil/jazz/jazz-2.png",
+      "plays": 1050,
+      "likes": 75
+    },
+    {
+      "name": "Bebop Classics",
+      "subtitle": "Retro Jazz Hits",
+      "url": "https://stream.srg-ssr.ch/srgssr/rsj/aac/48",
+      "image": "images/vinil/jazz/jazz-3.png",
+      "plays": 920,
+      "likes": 64
+    },
+    {
+      "name": "Modern Jazz Fusion",
+      "subtitle": "Energetic Grooves",
+      "url": "https://edge1.peta.live365.net/b48071_128mp3",
+      "image": "images/vinil/jazz/jazz-5.png",
+      "plays": 870,
+      "likes": 58
+    },
+    {
+      "name": "Vocal Standards",
+      "subtitle": "Timeless Classics",
+      "url": "https://jazzradio.ice.infomaniak.ch/jazzradio-high.mp3",
+      "image": "images/vinil/jazz/jazz-4.png",
+      "plays": 650,
+      "likes": 42
+    },
+    {
+      "name": "Jazz Standards",
+      "subtitle": "Melodic & Elegant",
+      "url": "https://radio.streamthejazzgroove.com/mix1-128k-free?referer=simpleradio",
+      "image": "images/vinil/jazz/jazz-6.png",
+      "plays": 580,
+      "likes": 39
+    },
+    {
+      "name": "Classic Swing Jazz",
+      "subtitle": "Big Band Swing",
+      "url": "https://swingfm.ice.infomaniak.ch/swingfm-128.mp3",
+      "image": "images/vinil/jazz/jazz-7.png",
+      "plays": 490,
+      "likes": 32
+    },
+    {
+      "name": "Acid Jazz Groove",
+      "subtitle": "Funky Jazz Beats",
+      "url": "https://streaming.exclusive.radio/er/dianakrall/icecast.audio",
+      "image": "images/vinil/jazz/jazz-8.png",
+      "plays": 720,
+      "likes": 50
+    }
+  ],
+  "Soul": [
+    {
+      "name": "Motown Gold",
+      "subtitle": "Classic Soul Hits",
+      "url": "https://listen-misoul.sharp-stream.com/462_mi_soul_128_mp3",
+      "image": "images/vinil/soul/soul-1.png",
+      "plays": 1140,
+      "likes": 80
+    },
+    {
+      "name": "Neo-Soul Sessions",
+      "subtitle": "Smooth Neo-Soul",
+      "url": "https://streaming.exclusive.radio/er/streisandhits/icecast.audio",
+      "image": "images/vinil/soul/soul-2.png",
+      "plays": 980,
+      "likes": 72
+    },
+    {
+      "name": "R&B Soul Grooves",
+      "subtitle": "Smooth R&B Grooves",
+      "url": "https://streaming.exclusive.radio/uber/easynatkingcole/icecast.audio",
+      "image": "images/vinil/soul/soul-3.png",
+      "plays": 850,
+      "likes": 60
+    },
+    {
+      "name": "Southern Blues & Soul",
+      "subtitle": "Deep Soulful Blues",
+      "url": "https://streaming.nrjaudio.fm/oupqnibgddr9",
+      "image": "images/vinil/soul/soul-4.png",
+      "plays": 740,
+      "likes": 51
+    },
+    {
+      "name": "Classic Soul Hits",
+      "subtitle": "Timeless Soul Standards",
+      "url": "https://streaming.exclusive.radio/er/georgebenson/icecast.audio",
+      "image": "images/vinil/soul/soul-5.png",
+      "plays": 690,
+      "likes": 45
+    },
+    {
+      "name": "Philly Soul Classics",
+      "subtitle": "Sweeping Orchestrations",
+      "url": "https://cast6.my-control-panel.com/proxy/soulblues/stream/;",
+      "image": "images/vinil/soul/soul-6.png",
+      "plays": 610,
+      "likes": 40
+    },
+    {
+      "name": "Soulful R&B Lounge",
+      "subtitle": "Late Night R&B",
+      "url": "http://streaming.exclusive.radio/er/franksinatra/icecast.audio",
+      "image": "images/vinil/soul/soul-7.png",
+      "plays": 520,
+      "likes": 35
+    },
+    {
+      "name": "Funk & Soul Express",
+      "subtitle": "Upbeat Soul & Funk",
+      "url": "https://streaming.exclusive.radio/er/tonybennett/icecast.audio",
+      "image": "images/vinil/soul/soul-8.png",
+      "plays": 780,
+      "likes": 55
+    }
+  ],
+  "Chill": [
+    {
+      "name": "Lo-Fi Beats Lounge",
+      "subtitle": "Chill Lo-Fi Study Beats",
+      "url": "https://icecast.omroep.nl/radio2-bb-mp3?station=chill-1",
+      "image": "images/vinil/chill/chill-1.png",
+      "plays": 1340,
+      "likes": 95
+    },
+    {
+      "name": "Chillout Ambient",
+      "subtitle": "Ambient & Chillout Music",
+      "url": "https://radio4.vip-radios.fm:18027/secure-128mp3-YogaChill",
+      "image": "images/vinil/chill/chill-2.png",
+      "plays": 1210,
+      "likes": 88
+    },
+    {
+      "name": "Liquid Chill",
+      "subtitle": "Deep Liquid Vibes",
+      "url": "https://www.radioking.com/play/sunset-chillout-lounge1",
+      "image": "images/vinil/chill/chill-3.png",
+      "plays": 940,
+      "likes": 65
+    },
+    {
+      "name": "Dreamy Wave",
+      "subtitle": "Dreamy Ambient Wave",
+      "url": "https://media-ice.musicradio.com/Chill",
+      "image": "images/vinil/chill/chill-4.png",
+      "plays": 810,
+      "likes": 55
+    },
+    {
+      "name": "Tropical Lounge",
+      "subtitle": "Summer Chillout Tunes",
+      "url": "https://stream.antenne.de/chillout/stream/mp3",
+      "image": "images/vinil/chill/chill-5.png",
+      "plays": 760,
+      "likes": 48
+    },
+    {
+      "name": "Lo-Fi Cafe Vibes",
+      "subtitle": "Melodic Lo-Fi Study Beats",
+      "url": "https://edge3.peta.live365.net/b05055_128mp3",
+      "image": "images/vinil/chill/chill-6.png",
+      "plays": 690,
+      "likes": 42
+    },
+    {
+      "name": "Ambient Space Chill",
+      "subtitle": "Atmospheric Textures",
+      "url": "https://stream.zeno.fm/cpnv07rjvp0vv",
+      "image": "images/vinil/chill/chill-7.png",
+      "plays": 540,
+      "likes": 30
+    },
+    {
+      "name": "Liquid Drum & Bass Chill",
+      "subtitle": "Soft Drum & Bass Vibes",
+      "url": "https://das-sa39.cdnstream1.com/5582_128",
+      "image": "images/vinil/chill/chill-8.png",
+      "plays": 820,
+      "likes": 61
+    }
+  ],
+  "Classic": [
+    {
+      "name": "Piano Treasures",
+      "subtitle": "Beautiful Piano Solos",
+      "url": "https://drive.uber.radio/uber/crbeethoven/icecast.audio",
+      "image": "images/vinil/classical/classical-1.png",
+      "plays": 1040,
+      "likes": 78
+    },
+    {
+      "name": "Classical Symphonies",
+      "subtitle": "Masterpieces of Music",
+      "url": "https://icecast.omroep.nl/radio4-bb-mp3?station=classic-2",
+      "image": "images/vinil/classical/classical-2.png",
+      "plays": 915,
+      "likes": 62
+    },
+    {
+      "name": "Baroque Classics",
+      "subtitle": "Timeless Baroque Masterpieces",
+      "url": "https://mpc1.mediacp.eu/stream/allchamberwithpiano/stream",
+      "image": "images/vinil/classical/classical-3.png",
+      "plays": 840,
+      "likes": 55
+    },
+    {
+      "name": "Opera Masterpieces",
+      "subtitle": "Famous Arias & Operas",
+      "url": "https://stream.zeno.fm/dbs1r381srhvv",
+      "image": "images/vinil/classical/classical-4.png",
+      "plays": 710,
+      "likes": 44
+    },
+    {
+      "name": "Cinematic Symphony",
+      "subtitle": "Epic Cinematic Soundtracks",
+      "url": "https://drive.uber.radio/uber/crmozart/icecast.audio",
+      "image": "images/vinil/classical/classical-5.png",
+      "plays": 680,
+      "likes": 39
+    },
+    {
+      "name": "Beethoven Piano Sonatas",
+      "subtitle": "Stradivarius Masterpieces",
+      "url": "https://mpc1.mediacp.eu:8044/stream/;",
+      "image": "images/vinil/classical/classical-6.png",
+      "plays": 590,
+      "likes": 38
+    },
+    {
+      "name": "Symphonic Masterpieces",
+      "subtitle": "Epic Orchestral Works",
+      "url": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3/;",
+      "image": "images/vinil/classical/classical-7.png",
+      "plays": 480,
+      "likes": 29
+    },
+    {
+      "name": "Romantic Piano Solos",
+      "subtitle": "Beautiful Cello & Piano",
+      "url": "https://strm112.1.fm/classical_mobile_mp3",
+      "image": "images/vinil/classical/classical-8.png",
+      "plays": 650,
+      "likes": 44
+    }
+  ],
+  "Lounge": [
+    {
+      "name": "Parisian Cafe Lounge",
+      "subtitle": "Accordion Cafe Music",
+      "url": "https://stream.epic-lounge.com/piano-jazz-bar?ref=streema",
+      "image": "images/vinil/lounge/lounge-1.png",
+      "plays": 850,
+      "likes": 55
+    },
+    {
+      "name": "Sunset Beach Lounge",
+      "subtitle": "Sunset Lounge Grooves",
+      "url": "https://www.radioking.com/play/sunset-chillout-lounge1",
+      "image": "images/vinil/lounge/lounge-2.png",
+      "plays": 940,
+      "likes": 68
+    },
+    {
+      "name": "Deep House Lounge",
+      "subtitle": "Sleek Deep House Beats",
+      "url": "https://listen.openstream.co/3139/audio",
+      "image": "images/vinil/lounge/lounge-3.png",
+      "plays": 1120,
+      "likes": 85
+    },
+    {
+      "name": "Bossa Nova Lounge",
+      "subtitle": "Chilled Bossa Nova Vibes",
+      "url": "https://electrolounge.stream.laut.fm/electrolounge",
+      "image": "images/vinil/lounge/lounge-4.png",
+      "plays": 990,
+      "likes": 74
+    },
+    {
+      "name": "Cocktail Hour",
+      "subtitle": "Classy Cocktail Music",
+      "url": "https://stream.zeno.fm/h0fd8i0yjl0tv",
+      "image": "images/vinil/lounge/lounge-5.png",
+      "plays": 710,
+      "likes": 49
+    },
+    {
+      "name": "Chillstep Lounge",
+      "subtitle": "Atmospheric Downtempo",
+      "url": "https://icy.unitedradio.it/rmcweb020",
+      "image": "images/vinil/lounge/lounge-6.png",
+      "plays": 610,
+      "likes": 40
+    },
+    {
+      "name": "Jazz-Lounge Cafe",
+      "subtitle": "Acoustic Cafe Guitar",
+      "url": "https://listen.openstream.co/7011/audio",
+      "image": "images/vinil/lounge/lounge-7.png",
+      "plays": 530,
+      "likes": 31
+    },
+    {
+      "name": "Ibiza Chill Lounge",
+      "subtitle": "Sunset Lounge Beats",
+      "url": "https://smoothjazz.cdnstream1.com/2586_128.mp3",
+      "image": "images/vinil/lounge/lounge-8.png",
+      "plays": 740,
+      "likes": 50
+    }
+  ],
+  "Funk": [
+    {
+      "name": "Funk Foundation",
+      "subtitle": "Classic Grooves & Basslines",
+      "url": "https://www.radioking.com/play/fm80funkymusic/523739",
+      "image": "images/vinil/funk/funk-1.png",
+      "plays": 1080,
+      "likes": 70
+    },
+    {
+      "name": "Soulful Funk Express",
+      "subtitle": "Brass & Deep Grooves",
+      "url": "https://streaming.nrjaudio.fm/ouhm27apu6pb?origine=streema&aw_0_1st.station=Nostalgie-Funk",
+      "image": "images/vinil/funk/funk-2.png",
+      "plays": 930,
+      "likes": 60
+    },
+    {
+      "name": "Retro Funk Revival",
+      "subtitle": "70s & 80s Dancefloor",
+      "url": "https://icecast.ndr.de/ndr/ndr2/hamburg/mp3/128/stream.mp3",
+      "image": "images/vinil/funk/funk-3.png",
+      "plays": 860,
+      "likes": 55
+    },
+    {
+      "name": "G-Funk Chronicles",
+      "subtitle": "West Coast Vibes",
+      "url": "https://streams.80s80s.de/soul/mp3-128/streema/",
+      "image": "images/vinil/funk/funk-4.png",
+      "plays": 790,
+      "likes": 48
+    },
+    {
+      "name": "Synth Funk Lounge",
+      "subtitle": "Modern Electronic Funk",
+      "url": "https://dispatcher.rndfnk.com/br/br24/live/mp3/mid",
+      "image": "images/vinil/funk/funk-5.png",
+      "plays": 650,
+      "likes": 38
+    },
+    {
+      "name": "Superfly Rhythm",
+      "subtitle": "Vintage Soul & Funk",
+      "url": "https://player.ffn.de/radiobollerwagen.mp3",
+      "image": "images/vinil/funk/funk-6.png",
+      "plays": 590,
+      "likes": 37
+    },
+    {
+      "name": "Bassline Hustle",
+      "subtitle": "Heavy Bass & Beats",
+      "url": "https://stream.zeno.fm/vqsnxuwkkzzuv",
+      "image": "images/vinil/funk/funk-7.png",
+      "plays": 480,
+      "likes": 28
+    },
+    {
+      "name": "Liquid Funk Radio",
+      "subtitle": "Smooth & Jazzy Grooves",
+      "url": "https://discofunk.streamingmedia.it/play",
+      "image": "images/vinil/funk/funk-8.png",
+      "plays": 710,
+      "likes": 46
+    }
+  ],
+  "Lo-Fi": [
+    {
+      "name": "Coffee Shop Beats",
+      "subtitle": "Relaxing Lo-Fi Hip Hop",
+      "url": "https://radiorecord.hostingradio.ru/lofi96.aacp",
+      "image": "images/vinil/lo-fi/lofi-1.png",
+      "plays": 890,
+      "likes": 56
+    },
+    {
+      "name": "Midnight Study Session",
+      "subtitle": "Focus & Chill Beats",
+      "url": "https://stream.0nlineradio.com/lo-fi",
+      "image": "images/vinil/lo-fi/lofi-2.png",
+      "plays": 970,
+      "likes": 65
+    },
+    {
+      "name": "Rainy Day Lo-Fi",
+      "subtitle": "Cozy Ambient Sounds",
+      "url": "https://radio.dewoq.ru:8010/radio.mp3",
+      "image": "images/vinil/lo-fi/lofi-3.png",
+      "plays": 840,
+      "likes": 52
+    },
+    {
+      "name": "Sunset Chill Hop",
+      "subtitle": "Smooth Melodic Beats",
+      "url": "https://jazzblues.ice.infomaniak.ch/jazzblues-high.mp3",
+      "image": "images/vinil/lo-fi/lofi-4.png",
+      "plays": 760,
+      "likes": 44
+    },
+    {
+      "name": "Late Night Vinyl",
+      "subtitle": "Warm Dusty Grooves",
+      "url": "https://media-ice.musicradio.com/SmoothLondonMP3",
+      "image": "images/vinil/lo-fi/lofi-5.png",
+      "plays": 620,
+      "likes": 35
+    },
+    {
+      "name": "Urban Dreamscape",
+      "subtitle": "Atmospheric Lo-Fi",
+      "url": "https://ais-sa1.streamon.fm/7281_64k.aac/playlist.m3u8",
+      "image": "images/vinil/lo-fi/lofi-6.png",
+      "plays": 560,
+      "likes": 34
+    },
+    {
+      "name": "Chillhop Café",
+      "subtitle": "Mellow Guitar Grooves",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/JBCLASSIC_S01AAC.aac",
+      "image": "images/vinil/lo-fi/lofi-7.png",
+      "plays": 470,
+      "likes": 26
+    },
+    {
+      "name": "Bedroom Beats",
+      "subtitle": "Cozy & Nostalgic Vibes",
+      "url": "https://icestreaming.rai.it/13.mp3?station=talk-8",
+      "image": "images/vinil/lo-fi/lofi-8.png",
+      "plays": 680,
+      "likes": 41
+    }
+  ]
+}

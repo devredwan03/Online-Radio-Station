@@ -1,0 +1,298 @@
+[
+  {
+    "id": 1,
+    "name": "DJ Solaris",
+    "host": "Jason",
+    "show": "Solaris Sessions",
+    "avatar": "images/DJs/01_dj.jpg",
+    "genre": "Deep House & Melodic Techno",
+    "tags": "Progressive House • Celestial synths • Ambient techno",
+    "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3",
+    "bio": "<p>DJ Solaris (Jason) is a pioneer of melodic techno and progressive sounds, known for his ability to weave deep, cosmic soundscapes that transition listeners from twilight to late-night contemplation. Over the last decade, he has curated Solaris Sessions, one of AVAVA's most popular weekly programs, where he champions rising talent and explores atmospheric electronic music. His journey began in the early 2000s in the underground clubs of Berlin, where he was captivated by the hypnotic repetitive loops and deep emotional chords of early progressive house.</p>\n                  <p>His signature style blends driving rhythms, ambient synths, and emotional melodies, creating a sound that feels both nostalgic and forward-looking. Whether performing at sunrise festival stages or broadcasting from our studio, Jason brings a meticulous, track-focused energy to every mix. He spends hours researching vinyl archives and digital platforms to find the absolute perfect transitions that create a seamless flow, ensuring his audience feels completely immersed in the music.</p>\n                  <p>Deeply influenced by European techno movements and ambient pioneers, he curates each session like a journey through space and time. Beyond his weekly radio broadcast, Jason is a passionate synthesist, conducting analog workshops and composing sound tracks for independent cinematic projects. He often uses modular synthesizers and field recordings of wind, water, and city sounds to add organic layers to his electronic productions, giving them a unique texture that stands out in today's digital landscape.</p>\n                  <p>His work aims to bridge the gap between dancefloor energy and headphone intimacy, making him a beloved figure among late-night listeners and clubgoers alike. Jason also manages a local ambient netlabel, releasing experimental works from artists around the globe, and organizing intimate warehouse gatherings where people can experience electronic music in its purest form. He is committed to fostering a supportive community for underground artists, regularly mentoring young DJs and sharing his deep knowledge of synthesis and mixing techniques.</p>",
+    "episodes": [
+      {
+        "number": 142,
+        "title": "Romantica Stereo Dj Solaris Perrera #142",
+        "tags": "80s 90s Latin Love Songs Romantic",
+        "streamUrl": "https://usa19.fastcast4u.com:5670/;"
+      },
+      {
+        "number": 141,
+        "title": "Solaris Sessions #141",
+        "tags": "Progressive House • Celestial synths • Ambient techno • Sunset selection & deep grooves",
+        "streamUrl": "https://stream.zeno.fm/84h97t3ewg0uv"
+      },
+      {
+        "number": 140,
+        "title": "Solaris Sessions #140",
+        "tags": "Progressive House • Celestial synths • Ambient techno • Late-night minimal exploration",
+        "streamUrl": "https://stream.rcs.revma.com/x3ab37sgn7uvv"
+      },
+      {
+        "number": 139,
+        "title": "Solaris Sessions #139",
+        "tags": "Progressive House • Celestial synths • Ambient techno • Sunrise ambient special mix",
+        "streamUrl": "https://stream.zeno.fm/u7eee0hyzp8uv"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Vector Prime",
+    "host": "Alex",
+    "show": "Neon Waves",
+    "avatar": "images/DJs/02_dj.jpg",
+    "genre": "Synthwave & Retrowave",
+    "tags": "80s Retro Synth • Synthwave • Synthpop Revival",
+    "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8",
+    "bio": "<p>Vector Prime (Alex) is a veteran producer and selector dedicated to the neon-drenched sounds of Synthwave, Retrowave, and vintage electronic music. His show, Neon Waves, is a tribute to 1980s analog hardware, science-fiction soundtracks, and retro-futuristic basslines. Growing up in the era of classic arcade cabinets and VHS tapes, Alex fell in love with the iconic synthesizer sounds that defined a generation. Over the years, he has built a massive collection of vintage synthesizers and drum machines, keeping the rich history of retro electronic music alive.</p>\n                  <p>Armed with a collection of vintage drum machines and analog synthesizers, Alex delivers a high-octane mix that is perfect for late-night highway driving or cybernetic daydreams. His sets are characterized by nostalgic melodies, punchy beats, and cinematic soundscapes. Every weekly mix is carefully structured to take listeners on a narrative journey, blending retro-futuristic action themes with softer, nostalgic dream-pop synth textures.</p>\n                  <p>Alex has spent years archiving early video game music and synthesizing custom patches for retro computing communities. His weekly program serves as a meeting point for classic hardware enthusiasts and modern producers pushing the boundaries of retro electronic genres. He regularly collaborates with visual artists to sync his live radio broadcasts with pixel art and retro 3D graphics, creating a complete multi-sensory experience for his growing online community.</p>\n                  <p>He frequently hosts live hardware jams on air, demonstrating how classic gear from the 80s can be integrated into modern music production pipelines. Alex is a true hardware advocate, believing that physical sliders and knobs inspire a kind of creativity that software plugins simply cannot replicate. Through his educational segments, he teaches the next generation of bedroom producers how to synthesize classic retro sounds using affordable gear and creative mixing techniques.</p>",
+    "episodes": [
+      {
+        "number": 142,
+        "title": "Neon Waves #142",
+        "tags": "80s Retro Synth • Synthwave • Synthpop Revival • Celestial synths & progressive flows",
+        "streamUrl": "https://usa19.fastcast4u.com:5670/;"
+      },
+      {
+        "number": 141,
+        "title": "Neon Waves #141",
+        "tags": "80s Retro Synth • Synthwave • Synthpop Revival • Sunset selection & deep grooves",
+        "streamUrl": "https://stream.zeno.fm/84h97t3ewg0uv"
+      },
+      {
+        "number": 140,
+        "title": "Neon Waves #140",
+        "tags": "80s Retro Synth • Synthwave • Synthpop Revival • Late-night minimal exploration",
+        "streamUrl": "https://stream.rcs.revma.com/x3ab37sgn7uvv"
+      },
+      {
+        "number": 139,
+        "title": "Neon Waves #139",
+        "tags": "80s Retro Synth • Synthwave • Synthpop Revival • Sunrise ambient special mix",
+        "streamUrl": "https://stream.zeno.fm/u7eee0hyzp8uv"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Caleb Sterling",
+    "host": "Samuel",
+    "show": "Echoes of Soul",
+    "avatar": "images/DJs/03_dj.jpg",
+    "genre": "Neo-Soul & R&B",
+    "tags": "Warm acoustic grooves • Lush vocal harmonies • Jazz-infused rhythms",
+    "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3",
+    "bio": "<p>Caleb Sterling (Samuel) is a curator, researcher, and selector with a deep love for Neo-Soul, R&B, and jazz-infused rhythms. His show, Echoes of Soul, explores the warm acoustic grooves and rich vocal harmonies that form the foundation of modern independent soul music. Growing up in a household filled with Motown records, classic jazz, and gospel music, Samuel developed a deep appreciation for the emotional power and storytelling aspect of soul music from a very young age.</p>\n                  <p>Known for his warm presence and impeccable vinyl selections, Samuel creates an intimate listening experience that feels like a cozy living room session. He regularly shines a spotlight on rising underground vocalists, independent label releases, and classic soul treasures. His listeners appreciate his calm hosting style and his ability to discover incredibly talented independent artists long before they reach mainstream platforms.</p>\n                  <p>With a background in musicology and history, Samuel often shares the stories behind the records he plays, offering listeners context on the social movements and artist collaborations that shaped the evolution of soul music across generations. He regularly interviews veteran session musicians and contemporary producers, uncovering the studio secrets and cultural influences that define the soul and R&B landscape.</p>\n                  <p>Samuel is also a regular contributor to music magazines, reviewing new soul and jazz releases, and organizing local community showcases that bring independent singers and poets to the stage. He believes that soul music is not just a genre, but a universal language of shared human experience. He also hosts monthly community listening parties, encouraging people to gather, disconnect from their screens, and appreciate albums in their entirety.</p>",
+    "episodes": [
+      {
+        "number": 142,
+        "title": "Echoes of Soul #142",
+        "tags": "Warm acoustic grooves • Lush vocal harmonies • Jazz-infused rhythms • Celestial synths & progressive flows",
+        "streamUrl": "https://usa19.fastcast4u.com:5670/;"
+      },
+      {
+        "number": 141,
+        "title": "Echoes of Soul #141",
+        "tags": "Warm acoustic grooves • Lush vocal harmonies • Jazz-infused rhythms • Sunset selection & deep grooves",
+        "streamUrl": "https://stream.zeno.fm/84h97t3ewg0uv"
+      },
+      {
+        "number": 140,
+        "title": "Echoes of Soul #140",
+        "tags": "Warm acoustic grooves • Lush vocal harmonies • Jazz-infused rhythms • Late-night minimal exploration",
+        "streamUrl": "https://stream.rcs.revma.com/x3ab37sgn7uvv"
+      },
+      {
+        "number": 139,
+        "title": "Echoes of Soul #139",
+        "tags": "Warm acoustic grooves • Lush vocal harmonies • Jazz-infused rhythms • Sunrise ambient special mix",
+        "streamUrl": "https://stream.zeno.fm/u7eee0hyzp8uv"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Marcus Vance",
+    "host": "Marcus",
+    "show": "Vanguard Rhythms",
+    "avatar": "images/DJs/04_dj.jpg",
+    "genre": "Afro-Jazz & Global Beats",
+    "tags": "Boom Bap • Lo-Fi Chill • Experimental Beats",
+    "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8",
+    "bio": "<p>Marcus Vance is a DJ, drummer, and curator specializing in the intersections of Afro-Jazz, Hip-Hop beats, and global electronic frequencies. His show, Vanguard Rhythms, is a vibrant sonic map connecting traditional African percussion with modern urban grooves. His passion for rhythm led him to study drums and percussion from a young age, eventually leading him to explore how traditional acoustic rhythms can be blended with modern electronic production techniques.</p>\n                  <p>His sets are lively, rhythmic, and unpredictable, blending boom-bap loops, global bass, and live instrumental improvisations. Marcus often invites guest musicians into the studio to jam alongside his mixes, creating a fluid, live-performance atmosphere. His show is highly interactive, featuring live drumming segments where Marcus overlays intricate percussion rhythms over electronic tracks in real time.</p>\n                  <p>Having traveled extensively to study percussion styles in West Africa and South America, Marcus brings an authentic, deeply respectful appreciation for rhythm to his weekly program, educating listeners while keeping them moving. He shares his field recordings from traditional festivals and drum circles, showing how these ancient rhythms continue to influence modern dance and hip-hop music.</p>\n                  <p>He is also a producer of acoustic-electronic fusion beats, releasing music under various aliases. Marcus is committed to exploring how the ancient language of the drum can be translated into modern electronic structures, creating a dance floor experience that is both tribal and futuristic. He frequently conducts rhythm workshops for local schools and community centers, sharing his love for percussion and global music culture.</p>",
+    "episodes": [
+      {
+        "number": 142,
+        "title": "Vanguard Rhythms #142",
+        "tags": "Boom Bap • Lo-Fi Chill • Experimental Beats • Celestial synths & progressive flows",
+        "streamUrl": "https://usa19.fastcast4u.com:5670/;"
+      },
+      {
+        "number": 141,
+        "title": "Vanguard Rhythms #141",
+        "tags": "Boom Bap • Lo-Fi Chill • Experimental Beats • Sunset selection & deep grooves",
+        "streamUrl": "https://stream.zeno.fm/84h97t3ewg0uv"
+      },
+      {
+        "number": 140,
+        "title": "Vanguard Rhythms #140",
+        "tags": "Boom Bap • Lo-Fi Chill • Experimental Beats • Late-night minimal exploration",
+        "streamUrl": "https://stream.rcs.revma.com/x3ab37sgn7uvv"
+      },
+      {
+        "number": 139,
+        "title": "Vanguard Rhythms #139",
+        "tags": "Boom Bap • Lo-Fi Chill • Experimental Beats • Sunrise ambient special mix",
+        "streamUrl": "https://stream.zeno.fm/u7eee0hyzp8uv"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Elias Rostov",
+    "host": "Elias",
+    "show": "Urban Oasis",
+    "avatar": "images/DJs/05_dj.jpg",
+    "genre": "Lo-Fi Hip-Hop & Downtempo",
+    "tags": "Chill beats • Cozy crackling vinyl textures • Smooth jazz chords",
+    "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3",
+    "bio": "<p>Elias Rostov is a selector and keyboardist who curates Urban Oasis, a weekly program dedicated to Lo-Fi Hip-Hop, Downtempo, and relaxing beats. His sets are characterized by cozy crackling vinyl textures, smooth jazz chords, and laid-back grooves. As a formally trained pianist, Elias brings a sophisticated harmonic understanding to his selections, seamlessly blending jazzy improvisations with modern tape-saturated beat productions.</p>\n                  <p>Elias's selection provides the ultimate soundtrack for study, focus, or calm daydreaming, offering a peaceful retreat from the noise of busy city life. He focuses on warm, tape-saturated sounds, acoustic instrumentation, and nostalgic vocal samples. His listeners describe his weekly broadcasts as an essential ritual for relaxing after a stressful workweek, creating a warm and welcoming digital space.</p>\n                  <p>In addition to his broadcast work, Elias is a classical piano instructor and is highly active in the internet lo-fi beatmaking community, collaborating with bedroom producers worldwide to curate compilation albums and live-streamed beat sessions. He helps independent artists gain exposure by featuring their self-produced tracks on his highly followed playlists, building a strong network of bedroom beatsmiths.</p>\n                  <p>He believes in the therapeutic power of music, often curating mixes specifically designed to relieve anxiety and stress. Elias's program is a beloved digital sanctuary for thousands of daily listeners looking for a moment of calm in their busy routines. He is currently working on a project that combines ambient lo-fi music with guided breathing exercises, further exploring the intersection of audio production and mental wellness.</p>",
+    "episodes": [
+      {
+        "number": 142,
+        "title": "Urban Oasis #142",
+        "tags": "Chill beats • Cozy crackling vinyl textures • Smooth jazz chords • Celestial synths & progressive flows",
+        "streamUrl": "https://usa19.fastcast4u.com:5670/;"
+      },
+      {
+        "number": 141,
+        "title": "Urban Oasis #141",
+        "tags": "Chill beats • Cozy crackling vinyl textures • Smooth jazz chords • Sunset selection & deep grooves",
+        "streamUrl": "https://stream.zeno.fm/84h97t3ewg0uv"
+      },
+      {
+        "number": 140,
+        "title": "Urban Oasis #140",
+        "tags": "Chill beats • Cozy crackling vinyl textures • Smooth jazz chords • Late-night minimal exploration",
+        "streamUrl": "https://stream.rcs.revma.com/x3ab37sgn7uvv"
+      },
+      {
+        "number": 139,
+        "title": "Urban Oasis #139",
+        "tags": "Chill beats • Cozy crackling vinyl textures • Smooth jazz chords • Sunrise ambient special mix",
+        "streamUrl": "https://stream.zeno.fm/u7eee0hyzp8uv"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Liam Fletcher",
+    "host": "Liam",
+    "show": "Sonic Alchemy",
+    "avatar": "images/DJs/06_dj.jpg",
+    "genre": "Ambient & Downtempo",
+    "tags": "Sonic Alchemy • Ambient Soundscapes • Experimental Electronic",
+    "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8",
+    "bio": "<p>Liam Fletcher is an ambient sound artist and sound designer who hosts Sonic Alchemy. His weekly show explores environmental field recordings, cinematic drones, minimalist classical arrangements, and experimental electronic soundscapes. Liam has spent over fifteen years exploring the quiet corners of the audio world, utilizing custom-built microphones and recording devices to capture the subtle, hidden sounds of our environment.</p>\n                  <p>Liam's program is designed as a deep listening experience, encouraging audience members to sit back and immerse themselves in evolving textures and quiet micro-melodies. His sets often include generative music elements and custom-built modular synth patterns. Rather than focusing on rhythm or structure, Liam invites listeners to explore sound as a physical space, creating an atmospheric experience that is both calming and mentally stimulating.</p>\n                  <p>As a promoter of sound art installations, Liam's radio work functions as an extension of his gallery exhibitions, transforming the FM frequency into an open-air sonic gallery space for adventurous minds. He regularly collaborates with modern dance companies and visual artists, creating live soundscapes for immersive theatrical performances and public art installations.</p>\n                  <p>He often records his own field material during solo hikes in remote natural reserves, integrating the sounds of wind, water, and birdsong into his ambient sets. Liam seeks to explore the boundary where natural acoustics dissolve into synthetic textures. He is a passionate advocate for environmental acoustics, teaching sound recording workshops that encourage people to pay closer attention to the natural soundscapes around them.</p>",
+    "episodes": [
+      {
+        "number": 142,
+        "title": "Sonic Alchemy #142",
+        "tags": "Sonic Alchemy • Ambient Soundscapes • Experimental Electronic • Celestial synths & progressive flows",
+        "streamUrl": "https://usa19.fastcast4u.com:5670/;"
+      },
+      {
+        "number": 141,
+        "title": "Sonic Alchemy #141",
+        "tags": "Sonic Alchemy • Ambient Soundscapes • Experimental Electronic • Sunset selection & deep grooves",
+        "streamUrl": "https://stream.zeno.fm/84h97t3ewg0uv"
+      },
+      {
+        "number": 140,
+        "title": "Sonic Alchemy #140",
+        "tags": "Sonic Alchemy • Ambient Soundscapes • Experimental Electronic • Late-night minimal exploration",
+        "streamUrl": "https://stream.rcs.revma.com/x3ab37sgn7uvv"
+      },
+      {
+        "number": 139,
+        "title": "Sonic Alchemy #139",
+        "tags": "Sonic Alchemy • Ambient Soundscapes • Experimental Electronic • Sunrise ambient special mix",
+        "streamUrl": "https://stream.zeno.fm/u7eee0hyzp8uv"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Silas Sterling",
+    "host": "Silas",
+    "show": "Acoustic & Folk",
+    "avatar": "images/DJs/07_dj.jpg",
+    "genre": "Folk & Acoustic",
+    "tags": "Coffeehouse Folk • Melodic Acoustics • Singer-Songwriter",
+    "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3",
+    "bio": "<p>Silas Sterling is a singer-songwriter and folk historian who curates Acoustic & Folk. His show is a showcase for acoustic storytelling, independent singer-songwriters, traditional folk ballads, and Americana roots music. Growing up in the rural South, Silas was surrounded by acoustic guitars, banjos, and the rich tradition of oral storytelling, which deeply influenced his approach to music and radio curation.</p>\n                  <p>With his gentle hosting style and deep appreciation for lyricism, Silas highlights the power of acoustic instruments and the human voice. His playlist spans from rare 1960s folk-revival vinyl to modern, self-recorded bedroom acoustic tracks. He believes that acoustic music has a unique vulnerability and authenticity that connects people on a deeply personal level.</p>\n                  <p>Silas frequently hosts live, unplugged acoustic sessions in the studio, inviting touring indie artists to share their stories and play exclusive acoustic renditions of their songs for AVAVA listeners. These intimate performances are recorded with vintage ribbon microphones to capture the warm, natural acoustics of the performance, making the visitor feel like they are sitting right in the room.</p>\n                  <p>He also researches regional folk histories, dedicating special episodes to tracing how specific melodies and lyrics migrated across continents and transformed over centuries. Silas believes that every song is a living piece of history, carrying the voices of those who sang it before. He is currently writing a book about the history of traditional folk melodies, archiving rare field recordings for future generations.</p>",
+    "episodes": [
+      {
+        "number": 142,
+        "title": "Acoustic & Folk #142",
+        "tags": "Coffeehouse Folk • Melodic Acoustics • Singer-Songwriter • Celestial synths & progressive flows",
+        "streamUrl": "https://usa19.fastcast4u.com:5670/;"
+      },
+      {
+        "number": 141,
+        "title": "Acoustic & Folk #141",
+        "tags": "Coffeehouse Folk • Melodic Acoustics • Singer-Songwriter • Sunset selection & deep grooves",
+        "streamUrl": "https://stream.zeno.fm/84h97t3ewg0uv"
+      },
+      {
+        "number": 140,
+        "title": "Acoustic & Folk #140",
+        "tags": "Coffeehouse Folk • Melodic Acoustics • Singer-Songwriter • Late-night minimal exploration",
+        "streamUrl": "https://stream.rcs.revma.com/x3ab37sgn7uvv"
+      },
+      {
+        "number": 139,
+        "title": "Acoustic & Folk #139",
+        "tags": "Coffeehouse Folk • Melodic Acoustics • Singer-Songwriter • Sunrise ambient special mix",
+        "streamUrl": "https://stream.zeno.fm/u7eee0hyzp8uv"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Kofi Owusu",
+    "host": "George",
+    "show": "Amapiano & Afro-Fusion",
+    "avatar": "images/DJs/08_dj.jpg",
+    "genre": "Amapiano & Afro-Beat",
+    "tags": "San Francisco Indie • Surf Rock • Soul Grooves",
+    "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8",
+    "bio": "<p>Kofi Owusu (George) is a selector, dancer, and club promoter hosting Amapiano & Afro-Fusion. His program is a celebration of the high-energy sounds coming out of Johannesburg, Lagos, and London's Afro-dance scenes. Growing up between Accra and London, George was exposed to a diverse array of global club music, from highlife and afrobeat to UK garage and house, shaping his eclectic and energetic musical style.</p>\n                  <p>Featuring heavy log-drum basslines, jazzy keys, and energetic vocals, George's sets are designed to get people dancing. He keeps his finger on the pulse of global club movements, debuting exclusive pre-release dubplates and club edits. His vibrant on-air personality and high-energy music selection make his weekly show a favorite for listeners preparing for a night out or looking to bring club energy to their daily lives.</p>\n                  <p>George's show is a cornerstone of the local dance community, bridging the gap between African club cultures and western audiences, while educating listeners on the history and dance moves behind the Amapiano movement. He frequently organizes dance workshops in conjunction with his club nights, showing people how the music and movement are deeply interconnected.</p>\n                  <p>He regularly hosts guest mixes from international DJs and producers, creating a vital platform for global cultural exchange. George is passionate about the power of dance music to unite communities and break down cultural barriers. He is actively involved in supporting independent African artists, helping them distribute their music and secure bookings in European and North American clubs.</p>",
+    "episodes": [
+      {
+        "number": 142,
+        "title": "Amapiano & Afro-Fusion #142",
+        "tags": "San Francisco Indie • Surf Rock • Soul Grooves • Celestial synths & progressive flows",
+        "streamUrl": "https://usa19.fastcast4u.com:5670/;"
+      },
+      {
+        "number": 141,
+        "title": "Amapiano & Afro-Fusion #141",
+        "tags": "San Francisco Indie • Surf Rock • Soul Grooves • Sunset selection & deep grooves",
+        "streamUrl": "https://stream.zeno.fm/84h97t3ewg0uv"
+      },
+      {
+        "number": 140,
+        "title": "Amapiano & Afro-Fusion #140",
+        "tags": "San Francisco Indie • Surf Rock • Soul Grooves • Late-night minimal exploration",
+        "streamUrl": "https://stream.rcs.revma.com/x3ab37sgn7uvv"
+      },
+      {
+        "number": 139,
+        "title": "Amapiano & Afro-Fusion #139",
+        "tags": "San Francisco Indie • Surf Rock • Soul Grooves • Sunrise ambient special mix",
+        "streamUrl": "https://stream.zeno.fm/u7eee0hyzp8uv"
+      }
+    ]
+  }
+]

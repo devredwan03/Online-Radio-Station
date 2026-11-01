@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Solaris Sessions",
+    "host": "DJ Solaris",
+    "genre": "Deep House & Melodic Techno",
+    "image": "images/podcast-spaceship.png",
+    "schedule": "Mon - Thu, 9:00 PM - 11:00 PM",
+    "excerpt": "A premium late-night journey into deep progressive grooves, ambient techno waves, and celestial synthesizer layers. Solaris curates an immersive soundscape perfect for unwinding or focused midnight driving.",
+    "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3?show=solaris"
+  },
+  {
+    "title": "Neon Waves",
+    "host": "Vector Prime",
+    "genre": "Synthwave & Retrowave",
+    "image": "images/rock.png",
+    "schedule": "Fridays, 8:00 PM - 10:00 PM",
+    "excerpt": "Step into a time machine powered by vintage drum machines, analog synthesizer basslines, and cinematic 1980s nostalgia. Vector Prime delivers the ultimate soundtrack for modern cybernetic travelers.",
+    "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8?show=neon"
+  },
+  {
+    "title": "Echoes of Soul",
+    "host": "Clara Sterling",
+    "genre": "Neo-Soul & R&B",
+    "image": "images/classical.png",
+    "schedule": "Sundays, 4:00 PM - 6:00 PM",
+    "excerpt": "Warm acoustic grooves, lush vocal harmonies, and jazz-infused rhythms. Clara Sterling brings you an intimate selection of rising independent soul artists, fresh vinyl releases, and timeless classic grooves.",
+    "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3?show=echoes"
+  },
+  {
+    "title": "Vanguard Rhythms",
+    "host": "Marcus Vance",
+    "genre": "Afro-Jazz & Global Beats",
+    "image": "images/onair.png",
+    "schedule": "Wednesdays, 7:00 PM - 9:00 PM",
+    "excerpt": "Discover the vibrant meeting point of traditional African percussion, modern jazz improvisations, and electronic global frequencies. Marcus Vance connects cultural beats from all corners of the globe.",
+    "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8?show=vanguard"
+  },
+  {
+    "title": "Urban Oasis",
+    "host": "Elena Rostova",
+    "genre": "Lo-Fi Hip-Hop & Downtempo",
+    "image": "images/speak-radio.png",
+    "schedule": "Saturdays, 2:00 PM - 4:00 PM",
+    "excerpt": "Chill beats, cozy crackling vinyl textures, and smooth jazz chords. Elena Rostova provides a relaxing acoustic oasis in the middle of a busy weekend city life, perfect for study, work, or calm daydreaming.",
+    "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3?show=urban"
+  },
+  {
+    "title": "Sonic Alchemy",
+    "host": "Liam Fletcher",
+    "genre": "Experimental Rock & Indie",
+    "image": "images/jazz.png",
+    "schedule": "Tuesdays, 6:00 PM - 8:00 PM",
+    "excerpt": "Pushing the boundaries of conventional songwriting. Liam Fletcher explores guitar soundscapes, analog distortion, tape delays, and independent avant-garde rock sounds from underground scenes worldwide.",
+    "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8?show=sonic"
+  }
+]

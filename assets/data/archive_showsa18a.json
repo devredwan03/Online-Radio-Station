@@ -1,0 +1,1333 @@
+{
+  "1": [
+    {
+      "title": "Global Fusion",
+      "genre": "World, Electronic, Fusion",
+      "host": "DJ Sophia",
+      "avatar": "images/team_sophia_1778384900708.png",
+      "tags": "Afrobeat • Global Bass • Neo-Soul Sessions",
+      "time": "10:15 AM",
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8"
+    },
+    {
+      "title": "Morning Acoustic",
+      "genre": "Folk, Acoustic, Indie",
+      "host": "DJ Jenna",
+      "avatar": "images/team_jenna_1778384872653.png",
+      "tags": "Coffeehouse Folk • Melodic Acoustics • Singer-Songwriter",
+      "time": "9:00 AM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    },
+    {
+      "title": "Global Fusion",
+      "genre": "World, Electronic, Fusion",
+      "host": "DJ Sophia",
+      "avatar": "images/team_sophia_1778384900708.png",
+      "tags": "Afrobeat • Global Bass • Neo-Soul Sessions",
+      "time": "10:15 AM",
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8"
+    },
+    {
+      "title": "Morning Acoustic",
+      "genre": "Folk, Acoustic, Indie",
+      "host": "DJ Jenna",
+      "avatar": "images/team_jenna_1778384872653.png",
+      "tags": "Coffeehouse Folk • Melodic Acoustics • Singer-Songwriter",
+      "time": "9:00 AM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    }
+  ],
+  "2": [
+    {
+      "title": "Sunset Session",
+      "genre": "Ambient, Lounge, Electronic",
+      "host": "DJ Sophia",
+      "avatar": "images/team_sophia_1778384900708.png",
+      "tags": "Chillout • Balearic Beats • Liquid Ambient",
+      "time": "6:15 PM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    },
+    {
+      "title": "Late Night Lounge",
+      "genre": "Downtempo, Chillout, Lo-Fi",
+      "host": "DJ Marcus",
+      "avatar": "images/team_marcus_1778384887483.png",
+      "tags": "Midnight Downtempo • Lo-Fi Hip Hop Beats • Chill Lounge",
+      "time": "1:00 AM",
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8"
+    },
+    {
+      "title": "Sunset Session",
+      "genre": "Ambient, Lounge, Electronic",
+      "host": "DJ Sophia",
+      "avatar": "images/team_sophia_1778384900708.png",
+      "tags": "Chillout • Balearic Beats • Liquid Ambient",
+      "time": "6:15 PM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    },
+    {
+      "title": "Late Night Lounge",
+      "genre": "Downtempo, Chillout, Lo-Fi",
+      "host": "DJ Marcus",
+      "avatar": "images/team_marcus_1778384887483.png",
+      "tags": "Midnight Downtempo • Lo-Fi Hip Hop Beats • Chill Lounge",
+      "time": "1:00 AM",
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8"
+    },
+    {
+      "title": "Sunset Session",
+      "genre": "Ambient, Lounge, Electronic",
+      "host": "DJ Sophia",
+      "avatar": "images/team_sophia_1778384900708.png",
+      "tags": "Chillout • Balearic Beats • Liquid Ambient",
+      "time": "6:15 PM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    }
+  ],
+  "3": [
+    {
+      "title": "Retro Vibe",
+      "genre": "Electronic, New Wave, Synth",
+      "host": "DJ Marcus",
+      "avatar": "images/team_marcus_1778384887483.png",
+      "tags": "80s Retro Synth • Synthwave • Synthpop Revival",
+      "time": "4:30 PM",
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8"
+    },
+    {
+      "title": "Vinelands",
+      "genre": "Bay Area, Local, Eclectic",
+      "host": "DJ George",
+      "avatar": "images/team_george.png",
+      "tags": "San Francisco Indie • Surf Rock • Soul Grooves",
+      "time": "5:00 AM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    },
+    {
+      "title": "Retro Vibe",
+      "genre": "Electronic, New Wave, Synth",
+      "host": "DJ Marcus",
+      "avatar": "images/team_marcus_1778384887483.png",
+      "tags": "80s Retro Synth • Synthwave • Synthpop Revival",
+      "time": "4:30 PM",
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8"
+    },
+    {
+      "title": "Vinelands",
+      "genre": "Bay Area, Local, Eclectic",
+      "host": "DJ George",
+      "avatar": "images/team_george.png",
+      "tags": "San Francisco Indie • Surf Rock • Soul Grooves",
+      "time": "5:00 AM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    },
+    {
+      "title": "Retro Vibe",
+      "genre": "Electronic, New Wave, Synth",
+      "host": "DJ Marcus",
+      "avatar": "images/team_marcus_1778384887483.png",
+      "tags": "80s Retro Synth • Synthwave • Synthpop Revival",
+      "time": "4:30 PM",
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8"
+    },
+    {
+      "title": "Vinelands",
+      "genre": "Bay Area, Local, Eclectic",
+      "host": "DJ George",
+      "avatar": "images/team_george.png",
+      "tags": "San Francisco Indie • Surf Rock • Soul Grooves",
+      "time": "5:00 AM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    }
+  ],
+  "4": [
+    {
+      "title": "Jazz Cafe",
+      "genre": "Jazz, Swing, BeBop",
+      "host": "DJ George",
+      "avatar": "images/team_george.png",
+      "tags": "Classical Jazz Standards • Smooth Swing • Saxophone Solos",
+      "time": "2:00 PM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    },
+    {
+      "title": "Night Groove",
+      "genre": "Jazz, Soul, Late Night",
+      "host": "DJ George",
+      "avatar": "images/team_george.png",
+      "tags": "Modal Jazz • Deep Soul • Midnight Serenade",
+      "time": "8:00 PM",
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8"
+    },
+    {
+      "title": "Jazz Cafe",
+      "genre": "Jazz, Swing, BeBop",
+      "host": "DJ George",
+      "avatar": "images/team_george.png",
+      "tags": "Classical Jazz Standards • Smooth Swing • Saxophone Solos",
+      "time": "2:00 PM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    }
+  ],
+  "5": [
+    {
+      "title": "Audioasis",
+      "genre": "Rock, Eclectic, Pacific Northwest",
+      "host": "DJ Jenna",
+      "avatar": "images/team_jenna_1778384872653.png",
+      "tags": "Seattle Local • Grunge Revival • Dream Pop",
+      "time": "3:46 AM",
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8"
+    },
+    {
+      "title": "Midday Chill",
+      "genre": "Lounge, Ambient, Chillout",
+      "host": "DJ Sophia",
+      "avatar": "images/team_sophia_1778384900708.png",
+      "tags": "Relaxing Downtempo • Atmospheric Lo-Fi • Acoustic Chill",
+      "time": "1:30 PM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    },
+    {
+      "title": "Audioasis",
+      "genre": "Rock, Eclectic, Pacific Northwest",
+      "host": "DJ Jenna",
+      "avatar": "images/team_jenna_1778384872653.png",
+      "tags": "Seattle Local • Grunge Revival • Dream Pop",
+      "time": "3:46 AM",
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8"
+    },
+    {
+      "title": "Midday Chill",
+      "genre": "Lounge, Ambient, Chillout",
+      "host": "DJ Sophia",
+      "avatar": "images/team_sophia_1778384900708.png",
+      "tags": "Relaxing Downtempo • Atmospheric Lo-Fi • Acoustic Chill",
+      "time": "1:30 PM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    }
+  ],
+  "6": [
+    {
+      "title": "Beat Station",
+      "genre": "Hip Hop, Beats, Electronic",
+      "host": "DJ Marcus",
+      "avatar": "images/team_marcus_1778384887483.png",
+      "tags": "Boom Bap • Lo-Fi Chill • Experimental Beats",
+      "time": "3:30 PM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    },
+    {
+      "title": "Electronic Wave",
+      "genre": "Electronic, Techno, House",
+      "host": "DJ Alex",
+      "avatar": "images/team_alex_1778384857615.png",
+      "tags": "Deep House Grooves • Tech House Beats • Underground Club",
+      "time": "11:30 PM",
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8"
+    },
+    {
+      "title": "Beat Station",
+      "genre": "Hip Hop, Beats, Electronic",
+      "host": "DJ Marcus",
+      "avatar": "images/team_marcus_1778384887483.png",
+      "tags": "Boom Bap • Lo-Fi Chill • Experimental Beats",
+      "time": "3:30 PM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    },
+    {
+      "title": "Electronic Wave",
+      "genre": "Electronic, Techno, House",
+      "host": "DJ Alex",
+      "avatar": "images/team_alex_1778384857615.png",
+      "tags": "Deep House Grooves • Tech House Beats • Underground Club",
+      "time": "11:30 PM",
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8"
+    },
+    {
+      "title": "Beat Station",
+      "genre": "Hip Hop, Beats, Electronic",
+      "host": "DJ Marcus",
+      "avatar": "images/team_marcus_1778384887483.png",
+      "tags": "Boom Bap • Lo-Fi Chill • Experimental Beats",
+      "time": "3:30 PM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    }
+  ],
+  "7": [
+    {
+      "title": "Founder's Choice",
+      "genre": "Indie Rock, Post-Punk",
+      "host": "DJ Alex",
+      "avatar": "images/team_alex_1778384857615.png",
+      "tags": "Classic Post-Punk • Synth Wave • C86 Essentials",
+      "time": "11:00 PM",
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8"
+    },
+    {
+      "title": "Variety Mix",
+      "genre": "Rock, Eclectic, Variety Mix",
+      "host": "DJ Alex",
+      "avatar": "images/team_alex_1778384857615.png",
+      "tags": "Alternative Rock • Synth Pop • Indie Classics",
+      "time": "12:00 AM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    },
+    {
+      "title": "Founder's Choice",
+      "genre": "Indie Rock, Post-Punk",
+      "host": "DJ Alex",
+      "avatar": "images/team_alex_1778384857615.png",
+      "tags": "Classic Post-Punk • Synth Wave • C86 Essentials",
+      "time": "11:00 PM",
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8"
+    },
+    {
+      "title": "Variety Mix",
+      "genre": "Rock, Eclectic, Variety Mix",
+      "host": "DJ Alex",
+      "avatar": "images/team_alex_1778384857615.png",
+      "tags": "Alternative Rock • Synth Pop • Indie Classics",
+      "time": "12:00 AM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    },
+    {
+      "title": "Founder's Choice",
+      "genre": "Indie Rock, Post-Punk",
+      "host": "DJ Alex",
+      "avatar": "images/team_alex_1778384857615.png",
+      "tags": "Classic Post-Punk • Synth Wave • C86 Essentials",
+      "time": "11:00 PM",
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8"
+    },
+    {
+      "title": "Variety Mix",
+      "genre": "Rock, Eclectic, Variety Mix",
+      "host": "DJ Alex",
+      "avatar": "images/team_alex_1778384857615.png",
+      "tags": "Alternative Rock • Synth Pop • Indie Classics",
+      "time": "12:00 AM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    }
+  ],
+  "8": [
+    {
+      "title": "Morning Acoustic",
+      "genre": "Folk, Acoustic, Indie",
+      "host": "DJ Jenna",
+      "avatar": "images/team_jenna_1778384872653.png",
+      "tags": "Coffeehouse Folk • Melodic Acoustics • Singer-Songwriter",
+      "time": "9:00 AM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    },
+    {
+      "title": "Global Fusion",
+      "genre": "World, Electronic, Fusion",
+      "host": "DJ Sophia",
+      "avatar": "images/team_sophia_1778384900708.png",
+      "tags": "Afrobeat • Global Bass • Neo-Soul Sessions",
+      "time": "10:15 AM",
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8"
+    },
+    {
+      "title": "Morning Acoustic",
+      "genre": "Folk, Acoustic, Indie",
+      "host": "DJ Jenna",
+      "avatar": "images/team_jenna_1778384872653.png",
+      "tags": "Coffeehouse Folk • Melodic Acoustics • Singer-Songwriter",
+      "time": "9:00 AM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    }
+  ],
+  "9": [
+    {
+      "title": "Late Night Lounge",
+      "genre": "Downtempo, Chillout, Lo-Fi",
+      "host": "DJ Marcus",
+      "avatar": "images/team_marcus_1778384887483.png",
+      "tags": "Midnight Downtempo • Lo-Fi Hip Hop Beats • Chill Lounge",
+      "time": "1:00 AM",
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8"
+    },
+    {
+      "title": "Sunset Session",
+      "genre": "Ambient, Lounge, Electronic",
+      "host": "DJ Sophia",
+      "avatar": "images/team_sophia_1778384900708.png",
+      "tags": "Chillout • Balearic Beats • Liquid Ambient",
+      "time": "6:15 PM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    },
+    {
+      "title": "Late Night Lounge",
+      "genre": "Downtempo, Chillout, Lo-Fi",
+      "host": "DJ Marcus",
+      "avatar": "images/team_marcus_1778384887483.png",
+      "tags": "Midnight Downtempo • Lo-Fi Hip Hop Beats • Chill Lounge",
+      "time": "1:00 AM",
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8"
+    },
+    {
+      "title": "Sunset Session",
+      "genre": "Ambient, Lounge, Electronic",
+      "host": "DJ Sophia",
+      "avatar": "images/team_sophia_1778384900708.png",
+      "tags": "Chillout • Balearic Beats • Liquid Ambient",
+      "time": "6:15 PM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    }
+  ],
+  "10": [
+    {
+      "title": "Vinelands",
+      "genre": "Bay Area, Local, Eclectic",
+      "host": "DJ George",
+      "avatar": "images/team_george.png",
+      "tags": "San Francisco Indie • Surf Rock • Soul Grooves",
+      "time": "5:00 AM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    },
+    {
+      "title": "Retro Vibe",
+      "genre": "Electronic, New Wave, Synth",
+      "host": "DJ Marcus",
+      "avatar": "images/team_marcus_1778384887483.png",
+      "tags": "80s Retro Synth • Synthwave • Synthpop Revival",
+      "time": "4:30 PM",
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8"
+    },
+    {
+      "title": "Vinelands",
+      "genre": "Bay Area, Local, Eclectic",
+      "host": "DJ George",
+      "avatar": "images/team_george.png",
+      "tags": "San Francisco Indie • Surf Rock • Soul Grooves",
+      "time": "5:00 AM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    },
+    {
+      "title": "Retro Vibe",
+      "genre": "Electronic, New Wave, Synth",
+      "host": "DJ Marcus",
+      "avatar": "images/team_marcus_1778384887483.png",
+      "tags": "80s Retro Synth • Synthwave • Synthpop Revival",
+      "time": "4:30 PM",
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8"
+    },
+    {
+      "title": "Vinelands",
+      "genre": "Bay Area, Local, Eclectic",
+      "host": "DJ George",
+      "avatar": "images/team_george.png",
+      "tags": "San Francisco Indie • Surf Rock • Soul Grooves",
+      "time": "5:00 AM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    }
+  ],
+  "11": [
+    {
+      "title": "Night Groove",
+      "genre": "Jazz, Soul, Late Night",
+      "host": "DJ George",
+      "avatar": "images/team_george.png",
+      "tags": "Modal Jazz • Deep Soul • Midnight Serenade",
+      "time": "8:00 PM",
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8"
+    },
+    {
+      "title": "Jazz Cafe",
+      "genre": "Jazz, Swing, BeBop",
+      "host": "DJ George",
+      "avatar": "images/team_george.png",
+      "tags": "Classical Jazz Standards • Smooth Swing • Saxophone Solos",
+      "time": "2:00 PM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    },
+    {
+      "title": "Night Groove",
+      "genre": "Jazz, Soul, Late Night",
+      "host": "DJ George",
+      "avatar": "images/team_george.png",
+      "tags": "Modal Jazz • Deep Soul • Midnight Serenade",
+      "time": "8:00 PM",
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8"
+    },
+    {
+      "title": "Jazz Cafe",
+      "genre": "Jazz, Swing, BeBop",
+      "host": "DJ George",
+      "avatar": "images/team_george.png",
+      "tags": "Classical Jazz Standards • Smooth Swing • Saxophone Solos",
+      "time": "2:00 PM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    },
+    {
+      "title": "Night Groove",
+      "genre": "Jazz, Soul, Late Night",
+      "host": "DJ George",
+      "avatar": "images/team_george.png",
+      "tags": "Modal Jazz • Deep Soul • Midnight Serenade",
+      "time": "8:00 PM",
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8"
+    },
+    {
+      "title": "Jazz Cafe",
+      "genre": "Jazz, Swing, BeBop",
+      "host": "DJ George",
+      "avatar": "images/team_george.png",
+      "tags": "Classical Jazz Standards • Smooth Swing • Saxophone Solos",
+      "time": "2:00 PM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    }
+  ],
+  "12": [
+    {
+      "title": "Midday Chill",
+      "genre": "Lounge, Ambient, Chillout",
+      "host": "DJ Sophia",
+      "avatar": "images/team_sophia_1778384900708.png",
+      "tags": "Relaxing Downtempo • Atmospheric Lo-Fi • Acoustic Chill",
+      "time": "1:30 PM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    },
+    {
+      "title": "Audioasis",
+      "genre": "Rock, Eclectic, Pacific Northwest",
+      "host": "DJ Jenna",
+      "avatar": "images/team_jenna_1778384872653.png",
+      "tags": "Seattle Local • Grunge Revival • Dream Pop",
+      "time": "3:46 AM",
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8"
+    },
+    {
+      "title": "Midday Chill",
+      "genre": "Lounge, Ambient, Chillout",
+      "host": "DJ Sophia",
+      "avatar": "images/team_sophia_1778384900708.png",
+      "tags": "Relaxing Downtempo • Atmospheric Lo-Fi • Acoustic Chill",
+      "time": "1:30 PM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    }
+  ],
+  "13": [
+    {
+      "title": "Electronic Wave",
+      "genre": "Electronic, Techno, House",
+      "host": "DJ Alex",
+      "avatar": "images/team_alex_1778384857615.png",
+      "tags": "Deep House Grooves • Tech House Beats • Underground Club",
+      "time": "11:30 PM",
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8"
+    },
+    {
+      "title": "Beat Station",
+      "genre": "Hip Hop, Beats, Electronic",
+      "host": "DJ Marcus",
+      "avatar": "images/team_marcus_1778384887483.png",
+      "tags": "Boom Bap • Lo-Fi Chill • Experimental Beats",
+      "time": "3:30 PM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    },
+    {
+      "title": "Electronic Wave",
+      "genre": "Electronic, Techno, House",
+      "host": "DJ Alex",
+      "avatar": "images/team_alex_1778384857615.png",
+      "tags": "Deep House Grooves • Tech House Beats • Underground Club",
+      "time": "11:30 PM",
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8"
+    },
+    {
+      "title": "Beat Station",
+      "genre": "Hip Hop, Beats, Electronic",
+      "host": "DJ Marcus",
+      "avatar": "images/team_marcus_1778384887483.png",
+      "tags": "Boom Bap • Lo-Fi Chill • Experimental Beats",
+      "time": "3:30 PM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    }
+  ],
+  "14": [
+    {
+      "title": "Variety Mix",
+      "genre": "Rock, Eclectic, Variety Mix",
+      "host": "DJ Alex",
+      "avatar": "images/team_alex_1778384857615.png",
+      "tags": "Alternative Rock • Synth Pop • Indie Classics",
+      "time": "12:00 AM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    },
+    {
+      "title": "Founder's Choice",
+      "genre": "Indie Rock, Post-Punk",
+      "host": "DJ Alex",
+      "avatar": "images/team_alex_1778384857615.png",
+      "tags": "Classic Post-Punk • Synth Wave • C86 Essentials",
+      "time": "11:00 PM",
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8"
+    },
+    {
+      "title": "Variety Mix",
+      "genre": "Rock, Eclectic, Variety Mix",
+      "host": "DJ Alex",
+      "avatar": "images/team_alex_1778384857615.png",
+      "tags": "Alternative Rock • Synth Pop • Indie Classics",
+      "time": "12:00 AM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    },
+    {
+      "title": "Founder's Choice",
+      "genre": "Indie Rock, Post-Punk",
+      "host": "DJ Alex",
+      "avatar": "images/team_alex_1778384857615.png",
+      "tags": "Classic Post-Punk • Synth Wave • C86 Essentials",
+      "time": "11:00 PM",
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8"
+    },
+    {
+      "title": "Variety Mix",
+      "genre": "Rock, Eclectic, Variety Mix",
+      "host": "DJ Alex",
+      "avatar": "images/team_alex_1778384857615.png",
+      "tags": "Alternative Rock • Synth Pop • Indie Classics",
+      "time": "12:00 AM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    }
+  ],
+  "15": [
+    {
+      "title": "Global Fusion",
+      "genre": "World, Electronic, Fusion",
+      "host": "DJ Sophia",
+      "avatar": "images/team_sophia_1778384900708.png",
+      "tags": "Afrobeat • Global Bass • Neo-Soul Sessions",
+      "time": "10:15 AM",
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8"
+    },
+    {
+      "title": "Morning Acoustic",
+      "genre": "Folk, Acoustic, Indie",
+      "host": "DJ Jenna",
+      "avatar": "images/team_jenna_1778384872653.png",
+      "tags": "Coffeehouse Folk • Melodic Acoustics • Singer-Songwriter",
+      "time": "9:00 AM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    },
+    {
+      "title": "Global Fusion",
+      "genre": "World, Electronic, Fusion",
+      "host": "DJ Sophia",
+      "avatar": "images/team_sophia_1778384900708.png",
+      "tags": "Afrobeat • Global Bass • Neo-Soul Sessions",
+      "time": "10:15 AM",
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8"
+    },
+    {
+      "title": "Morning Acoustic",
+      "genre": "Folk, Acoustic, Indie",
+      "host": "DJ Jenna",
+      "avatar": "images/team_jenna_1778384872653.png",
+      "tags": "Coffeehouse Folk • Melodic Acoustics • Singer-Songwriter",
+      "time": "9:00 AM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    },
+    {
+      "title": "Global Fusion",
+      "genre": "World, Electronic, Fusion",
+      "host": "DJ Sophia",
+      "avatar": "images/team_sophia_1778384900708.png",
+      "tags": "Afrobeat • Global Bass • Neo-Soul Sessions",
+      "time": "10:15 AM",
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8"
+    },
+    {
+      "title": "Morning Acoustic",
+      "genre": "Folk, Acoustic, Indie",
+      "host": "DJ Jenna",
+      "avatar": "images/team_jenna_1778384872653.png",
+      "tags": "Coffeehouse Folk • Melodic Acoustics • Singer-Songwriter",
+      "time": "9:00 AM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    }
+  ],
+  "16": [
+    {
+      "title": "Sunset Session",
+      "genre": "Ambient, Lounge, Electronic",
+      "host": "DJ Sophia",
+      "avatar": "images/team_sophia_1778384900708.png",
+      "tags": "Chillout • Balearic Beats • Liquid Ambient",
+      "time": "6:15 PM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    },
+    {
+      "title": "Late Night Lounge",
+      "genre": "Downtempo, Chillout, Lo-Fi",
+      "host": "DJ Marcus",
+      "avatar": "images/team_marcus_1778384887483.png",
+      "tags": "Midnight Downtempo • Lo-Fi Hip Hop Beats • Chill Lounge",
+      "time": "1:00 AM",
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8"
+    },
+    {
+      "title": "Sunset Session",
+      "genre": "Ambient, Lounge, Electronic",
+      "host": "DJ Sophia",
+      "avatar": "images/team_sophia_1778384900708.png",
+      "tags": "Chillout • Balearic Beats • Liquid Ambient",
+      "time": "6:15 PM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    }
+  ],
+  "17": [
+    {
+      "title": "Retro Vibe",
+      "genre": "Electronic, New Wave, Synth",
+      "host": "DJ Marcus",
+      "avatar": "images/team_marcus_1778384887483.png",
+      "tags": "80s Retro Synth • Synthwave • Synthpop Revival",
+      "time": "4:30 PM",
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8"
+    },
+    {
+      "title": "Vinelands",
+      "genre": "Bay Area, Local, Eclectic",
+      "host": "DJ George",
+      "avatar": "images/team_george.png",
+      "tags": "San Francisco Indie • Surf Rock • Soul Grooves",
+      "time": "5:00 AM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    },
+    {
+      "title": "Retro Vibe",
+      "genre": "Electronic, New Wave, Synth",
+      "host": "DJ Marcus",
+      "avatar": "images/team_marcus_1778384887483.png",
+      "tags": "80s Retro Synth • Synthwave • Synthpop Revival",
+      "time": "4:30 PM",
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8"
+    },
+    {
+      "title": "Vinelands",
+      "genre": "Bay Area, Local, Eclectic",
+      "host": "DJ George",
+      "avatar": "images/team_george.png",
+      "tags": "San Francisco Indie • Surf Rock • Soul Grooves",
+      "time": "5:00 AM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    }
+  ],
+  "18": [
+    {
+      "title": "Jazz Cafe",
+      "genre": "Jazz, Swing, BeBop",
+      "host": "DJ George",
+      "avatar": "images/team_george.png",
+      "tags": "Classical Jazz Standards • Smooth Swing • Saxophone Solos",
+      "time": "2:00 PM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    },
+    {
+      "title": "Night Groove",
+      "genre": "Jazz, Soul, Late Night",
+      "host": "DJ George",
+      "avatar": "images/team_george.png",
+      "tags": "Modal Jazz • Deep Soul • Midnight Serenade",
+      "time": "8:00 PM",
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8"
+    },
+    {
+      "title": "Jazz Cafe",
+      "genre": "Jazz, Swing, BeBop",
+      "host": "DJ George",
+      "avatar": "images/team_george.png",
+      "tags": "Classical Jazz Standards • Smooth Swing • Saxophone Solos",
+      "time": "2:00 PM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    },
+    {
+      "title": "Night Groove",
+      "genre": "Jazz, Soul, Late Night",
+      "host": "DJ George",
+      "avatar": "images/team_george.png",
+      "tags": "Modal Jazz • Deep Soul • Midnight Serenade",
+      "time": "8:00 PM",
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8"
+    },
+    {
+      "title": "Jazz Cafe",
+      "genre": "Jazz, Swing, BeBop",
+      "host": "DJ George",
+      "avatar": "images/team_george.png",
+      "tags": "Classical Jazz Standards • Smooth Swing • Saxophone Solos",
+      "time": "2:00 PM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    }
+  ],
+  "19": [
+    {
+      "title": "Audioasis",
+      "genre": "Rock, Eclectic, Pacific Northwest",
+      "host": "DJ Jenna",
+      "avatar": "images/team_jenna_1778384872653.png",
+      "tags": "Seattle Local • Grunge Revival • Dream Pop",
+      "time": "3:46 AM",
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8"
+    },
+    {
+      "title": "Midday Chill",
+      "genre": "Lounge, Ambient, Chillout",
+      "host": "DJ Sophia",
+      "avatar": "images/team_sophia_1778384900708.png",
+      "tags": "Relaxing Downtempo • Atmospheric Lo-Fi • Acoustic Chill",
+      "time": "1:30 PM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    },
+    {
+      "title": "Audioasis",
+      "genre": "Rock, Eclectic, Pacific Northwest",
+      "host": "DJ Jenna",
+      "avatar": "images/team_jenna_1778384872653.png",
+      "tags": "Seattle Local • Grunge Revival • Dream Pop",
+      "time": "3:46 AM",
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8"
+    },
+    {
+      "title": "Midday Chill",
+      "genre": "Lounge, Ambient, Chillout",
+      "host": "DJ Sophia",
+      "avatar": "images/team_sophia_1778384900708.png",
+      "tags": "Relaxing Downtempo • Atmospheric Lo-Fi • Acoustic Chill",
+      "time": "1:30 PM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    },
+    {
+      "title": "Audioasis",
+      "genre": "Rock, Eclectic, Pacific Northwest",
+      "host": "DJ Jenna",
+      "avatar": "images/team_jenna_1778384872653.png",
+      "tags": "Seattle Local • Grunge Revival • Dream Pop",
+      "time": "3:46 AM",
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8"
+    },
+    {
+      "title": "Midday Chill",
+      "genre": "Lounge, Ambient, Chillout",
+      "host": "DJ Sophia",
+      "avatar": "images/team_sophia_1778384900708.png",
+      "tags": "Relaxing Downtempo • Atmospheric Lo-Fi • Acoustic Chill",
+      "time": "1:30 PM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    }
+  ],
+  "20": [
+    {
+      "title": "Beat Station",
+      "genre": "Hip Hop, Beats, Electronic",
+      "host": "DJ Marcus",
+      "avatar": "images/team_marcus_1778384887483.png",
+      "tags": "Boom Bap • Lo-Fi Chill • Experimental Beats",
+      "time": "3:30 PM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    },
+    {
+      "title": "Electronic Wave",
+      "genre": "Electronic, Techno, House",
+      "host": "DJ Alex",
+      "avatar": "images/team_alex_1778384857615.png",
+      "tags": "Deep House Grooves • Tech House Beats • Underground Club",
+      "time": "11:30 PM",
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8"
+    },
+    {
+      "title": "Beat Station",
+      "genre": "Hip Hop, Beats, Electronic",
+      "host": "DJ Marcus",
+      "avatar": "images/team_marcus_1778384887483.png",
+      "tags": "Boom Bap • Lo-Fi Chill • Experimental Beats",
+      "time": "3:30 PM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    }
+  ],
+  "21": [
+    {
+      "title": "Founder's Choice",
+      "genre": "Indie Rock, Post-Punk",
+      "host": "DJ Alex",
+      "avatar": "images/team_alex_1778384857615.png",
+      "tags": "Classic Post-Punk • Synth Wave • C86 Essentials",
+      "time": "11:00 PM",
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8"
+    },
+    {
+      "title": "Variety Mix",
+      "genre": "Rock, Eclectic, Variety Mix",
+      "host": "DJ Alex",
+      "avatar": "images/team_alex_1778384857615.png",
+      "tags": "Alternative Rock • Synth Pop • Indie Classics",
+      "time": "12:00 AM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    },
+    {
+      "title": "Founder's Choice",
+      "genre": "Indie Rock, Post-Punk",
+      "host": "DJ Alex",
+      "avatar": "images/team_alex_1778384857615.png",
+      "tags": "Classic Post-Punk • Synth Wave • C86 Essentials",
+      "time": "11:00 PM",
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8"
+    },
+    {
+      "title": "Variety Mix",
+      "genre": "Rock, Eclectic, Variety Mix",
+      "host": "DJ Alex",
+      "avatar": "images/team_alex_1778384857615.png",
+      "tags": "Alternative Rock • Synth Pop • Indie Classics",
+      "time": "12:00 AM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    }
+  ],
+  "22": [
+    {
+      "title": "Morning Acoustic",
+      "genre": "Folk, Acoustic, Indie",
+      "host": "DJ Jenna",
+      "avatar": "images/team_jenna_1778384872653.png",
+      "tags": "Coffeehouse Folk • Melodic Acoustics • Singer-Songwriter",
+      "time": "9:00 AM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    },
+    {
+      "title": "Global Fusion",
+      "genre": "World, Electronic, Fusion",
+      "host": "DJ Sophia",
+      "avatar": "images/team_sophia_1778384900708.png",
+      "tags": "Afrobeat • Global Bass • Neo-Soul Sessions",
+      "time": "10:15 AM",
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8"
+    },
+    {
+      "title": "Morning Acoustic",
+      "genre": "Folk, Acoustic, Indie",
+      "host": "DJ Jenna",
+      "avatar": "images/team_jenna_1778384872653.png",
+      "tags": "Coffeehouse Folk • Melodic Acoustics • Singer-Songwriter",
+      "time": "9:00 AM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    },
+    {
+      "title": "Global Fusion",
+      "genre": "World, Electronic, Fusion",
+      "host": "DJ Sophia",
+      "avatar": "images/team_sophia_1778384900708.png",
+      "tags": "Afrobeat • Global Bass • Neo-Soul Sessions",
+      "time": "10:15 AM",
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8"
+    },
+    {
+      "title": "Morning Acoustic",
+      "genre": "Folk, Acoustic, Indie",
+      "host": "DJ Jenna",
+      "avatar": "images/team_jenna_1778384872653.png",
+      "tags": "Coffeehouse Folk • Melodic Acoustics • Singer-Songwriter",
+      "time": "9:00 AM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    }
+  ],
+  "23": [
+    {
+      "title": "Late Night Lounge",
+      "genre": "Downtempo, Chillout, Lo-Fi",
+      "host": "DJ Marcus",
+      "avatar": "images/team_marcus_1778384887483.png",
+      "tags": "Midnight Downtempo • Lo-Fi Hip Hop Beats • Chill Lounge",
+      "time": "1:00 AM",
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8"
+    },
+    {
+      "title": "Sunset Session",
+      "genre": "Ambient, Lounge, Electronic",
+      "host": "DJ Sophia",
+      "avatar": "images/team_sophia_1778384900708.png",
+      "tags": "Chillout • Balearic Beats • Liquid Ambient",
+      "time": "6:15 PM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    },
+    {
+      "title": "Late Night Lounge",
+      "genre": "Downtempo, Chillout, Lo-Fi",
+      "host": "DJ Marcus",
+      "avatar": "images/team_marcus_1778384887483.png",
+      "tags": "Midnight Downtempo • Lo-Fi Hip Hop Beats • Chill Lounge",
+      "time": "1:00 AM",
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8"
+    },
+    {
+      "title": "Sunset Session",
+      "genre": "Ambient, Lounge, Electronic",
+      "host": "DJ Sophia",
+      "avatar": "images/team_sophia_1778384900708.png",
+      "tags": "Chillout • Balearic Beats • Liquid Ambient",
+      "time": "6:15 PM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    },
+    {
+      "title": "Late Night Lounge",
+      "genre": "Downtempo, Chillout, Lo-Fi",
+      "host": "DJ Marcus",
+      "avatar": "images/team_marcus_1778384887483.png",
+      "tags": "Midnight Downtempo • Lo-Fi Hip Hop Beats • Chill Lounge",
+      "time": "1:00 AM",
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8"
+    },
+    {
+      "title": "Sunset Session",
+      "genre": "Ambient, Lounge, Electronic",
+      "host": "DJ Sophia",
+      "avatar": "images/team_sophia_1778384900708.png",
+      "tags": "Chillout • Balearic Beats • Liquid Ambient",
+      "time": "6:15 PM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    }
+  ],
+  "24": [
+    {
+      "title": "Vinelands",
+      "genre": "Bay Area, Local, Eclectic",
+      "host": "DJ George",
+      "avatar": "images/team_george.png",
+      "tags": "San Francisco Indie • Surf Rock • Soul Grooves",
+      "time": "5:00 AM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    },
+    {
+      "title": "Retro Vibe",
+      "genre": "Electronic, New Wave, Synth",
+      "host": "DJ Marcus",
+      "avatar": "images/team_marcus_1778384887483.png",
+      "tags": "80s Retro Synth • Synthwave • Synthpop Revival",
+      "time": "4:30 PM",
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8"
+    },
+    {
+      "title": "Vinelands",
+      "genre": "Bay Area, Local, Eclectic",
+      "host": "DJ George",
+      "avatar": "images/team_george.png",
+      "tags": "San Francisco Indie • Surf Rock • Soul Grooves",
+      "time": "5:00 AM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    }
+  ],
+  "25": [
+    {
+      "title": "Night Groove",
+      "genre": "Jazz, Soul, Late Night",
+      "host": "DJ George",
+      "avatar": "images/team_george.png",
+      "tags": "Modal Jazz • Deep Soul • Midnight Serenade",
+      "time": "8:00 PM",
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8"
+    },
+    {
+      "title": "Jazz Cafe",
+      "genre": "Jazz, Swing, BeBop",
+      "host": "DJ George",
+      "avatar": "images/team_george.png",
+      "tags": "Classical Jazz Standards • Smooth Swing • Saxophone Solos",
+      "time": "2:00 PM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    },
+    {
+      "title": "Night Groove",
+      "genre": "Jazz, Soul, Late Night",
+      "host": "DJ George",
+      "avatar": "images/team_george.png",
+      "tags": "Modal Jazz • Deep Soul • Midnight Serenade",
+      "time": "8:00 PM",
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8"
+    },
+    {
+      "title": "Jazz Cafe",
+      "genre": "Jazz, Swing, BeBop",
+      "host": "DJ George",
+      "avatar": "images/team_george.png",
+      "tags": "Classical Jazz Standards • Smooth Swing • Saxophone Solos",
+      "time": "2:00 PM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    }
+  ],
+  "26": [
+    {
+      "title": "Midday Chill",
+      "genre": "Lounge, Ambient, Chillout",
+      "host": "DJ Sophia",
+      "avatar": "images/team_sophia_1778384900708.png",
+      "tags": "Relaxing Downtempo • Atmospheric Lo-Fi • Acoustic Chill",
+      "time": "1:30 PM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    },
+    {
+      "title": "Audioasis",
+      "genre": "Rock, Eclectic, Pacific Northwest",
+      "host": "DJ Jenna",
+      "avatar": "images/team_jenna_1778384872653.png",
+      "tags": "Seattle Local • Grunge Revival • Dream Pop",
+      "time": "3:46 AM",
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8"
+    },
+    {
+      "title": "Midday Chill",
+      "genre": "Lounge, Ambient, Chillout",
+      "host": "DJ Sophia",
+      "avatar": "images/team_sophia_1778384900708.png",
+      "tags": "Relaxing Downtempo • Atmospheric Lo-Fi • Acoustic Chill",
+      "time": "1:30 PM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    },
+    {
+      "title": "Audioasis",
+      "genre": "Rock, Eclectic, Pacific Northwest",
+      "host": "DJ Jenna",
+      "avatar": "images/team_jenna_1778384872653.png",
+      "tags": "Seattle Local • Grunge Revival • Dream Pop",
+      "time": "3:46 AM",
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8"
+    },
+    {
+      "title": "Midday Chill",
+      "genre": "Lounge, Ambient, Chillout",
+      "host": "DJ Sophia",
+      "avatar": "images/team_sophia_1778384900708.png",
+      "tags": "Relaxing Downtempo • Atmospheric Lo-Fi • Acoustic Chill",
+      "time": "1:30 PM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    }
+  ],
+  "27": [
+    {
+      "title": "Electronic Wave",
+      "genre": "Electronic, Techno, House",
+      "host": "DJ Alex",
+      "avatar": "images/team_alex_1778384857615.png",
+      "tags": "Deep House Grooves • Tech House Beats • Underground Club",
+      "time": "11:30 PM",
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8"
+    },
+    {
+      "title": "Beat Station",
+      "genre": "Hip Hop, Beats, Electronic",
+      "host": "DJ Marcus",
+      "avatar": "images/team_marcus_1778384887483.png",
+      "tags": "Boom Bap • Lo-Fi Chill • Experimental Beats",
+      "time": "3:30 PM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    },
+    {
+      "title": "Electronic Wave",
+      "genre": "Electronic, Techno, House",
+      "host": "DJ Alex",
+      "avatar": "images/team_alex_1778384857615.png",
+      "tags": "Deep House Grooves • Tech House Beats • Underground Club",
+      "time": "11:30 PM",
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8"
+    },
+    {
+      "title": "Beat Station",
+      "genre": "Hip Hop, Beats, Electronic",
+      "host": "DJ Marcus",
+      "avatar": "images/team_marcus_1778384887483.png",
+      "tags": "Boom Bap • Lo-Fi Chill • Experimental Beats",
+      "time": "3:30 PM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    },
+    {
+      "title": "Electronic Wave",
+      "genre": "Electronic, Techno, House",
+      "host": "DJ Alex",
+      "avatar": "images/team_alex_1778384857615.png",
+      "tags": "Deep House Grooves • Tech House Beats • Underground Club",
+      "time": "11:30 PM",
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8"
+    },
+    {
+      "title": "Beat Station",
+      "genre": "Hip Hop, Beats, Electronic",
+      "host": "DJ Marcus",
+      "avatar": "images/team_marcus_1778384887483.png",
+      "tags": "Boom Bap • Lo-Fi Chill • Experimental Beats",
+      "time": "3:30 PM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    }
+  ],
+  "28": [
+    {
+      "title": "Variety Mix",
+      "genre": "Rock, Eclectic, Variety Mix",
+      "host": "DJ Alex",
+      "avatar": "images/team_alex_1778384857615.png",
+      "tags": "Alternative Rock • Synth Pop • Indie Classics",
+      "time": "12:00 AM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    },
+    {
+      "title": "Founder's Choice",
+      "genre": "Indie Rock, Post-Punk",
+      "host": "DJ Alex",
+      "avatar": "images/team_alex_1778384857615.png",
+      "tags": "Classic Post-Punk • Synth Wave • C86 Essentials",
+      "time": "11:00 PM",
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8"
+    },
+    {
+      "title": "Variety Mix",
+      "genre": "Rock, Eclectic, Variety Mix",
+      "host": "DJ Alex",
+      "avatar": "images/team_alex_1778384857615.png",
+      "tags": "Alternative Rock • Synth Pop • Indie Classics",
+      "time": "12:00 AM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    }
+  ],
+  "29": [
+    {
+      "title": "Global Fusion",
+      "genre": "World, Electronic, Fusion",
+      "host": "DJ Sophia",
+      "avatar": "images/team_sophia_1778384900708.png",
+      "tags": "Afrobeat • Global Bass • Neo-Soul Sessions",
+      "time": "10:15 AM",
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8"
+    },
+    {
+      "title": "Morning Acoustic",
+      "genre": "Folk, Acoustic, Indie",
+      "host": "DJ Jenna",
+      "avatar": "images/team_jenna_1778384872653.png",
+      "tags": "Coffeehouse Folk • Melodic Acoustics • Singer-Songwriter",
+      "time": "9:00 AM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    },
+    {
+      "title": "Global Fusion",
+      "genre": "World, Electronic, Fusion",
+      "host": "DJ Sophia",
+      "avatar": "images/team_sophia_1778384900708.png",
+      "tags": "Afrobeat • Global Bass • Neo-Soul Sessions",
+      "time": "10:15 AM",
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8"
+    },
+    {
+      "title": "Morning Acoustic",
+      "genre": "Folk, Acoustic, Indie",
+      "host": "DJ Jenna",
+      "avatar": "images/team_jenna_1778384872653.png",
+      "tags": "Coffeehouse Folk • Melodic Acoustics • Singer-Songwriter",
+      "time": "9:00 AM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    }
+  ],
+  "30": [
+    {
+      "title": "Sunset Session",
+      "genre": "Ambient, Lounge, Electronic",
+      "host": "DJ Sophia",
+      "avatar": "images/team_sophia_1778384900708.png",
+      "tags": "Chillout • Balearic Beats • Liquid Ambient",
+      "time": "6:15 PM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    },
+    {
+      "title": "Late Night Lounge",
+      "genre": "Downtempo, Chillout, Lo-Fi",
+      "host": "DJ Marcus",
+      "avatar": "images/team_marcus_1778384887483.png",
+      "tags": "Midnight Downtempo • Lo-Fi Hip Hop Beats • Chill Lounge",
+      "time": "1:00 AM",
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8"
+    },
+    {
+      "title": "Sunset Session",
+      "genre": "Ambient, Lounge, Electronic",
+      "host": "DJ Sophia",
+      "avatar": "images/team_sophia_1778384900708.png",
+      "tags": "Chillout • Balearic Beats • Liquid Ambient",
+      "time": "6:15 PM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    },
+    {
+      "title": "Late Night Lounge",
+      "genre": "Downtempo, Chillout, Lo-Fi",
+      "host": "DJ Marcus",
+      "avatar": "images/team_marcus_1778384887483.png",
+      "tags": "Midnight Downtempo • Lo-Fi Hip Hop Beats • Chill Lounge",
+      "time": "1:00 AM",
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8"
+    },
+    {
+      "title": "Sunset Session",
+      "genre": "Ambient, Lounge, Electronic",
+      "host": "DJ Sophia",
+      "avatar": "images/team_sophia_1778384900708.png",
+      "tags": "Chillout • Balearic Beats • Liquid Ambient",
+      "time": "6:15 PM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    }
+  ],
+  "31": [
+    {
+      "title": "Retro Vibe",
+      "genre": "Electronic, New Wave, Synth",
+      "host": "DJ Marcus",
+      "avatar": "images/team_marcus_1778384887483.png",
+      "tags": "80s Retro Synth • Synthwave • Synthpop Revival",
+      "time": "4:30 PM",
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8"
+    },
+    {
+      "title": "Vinelands",
+      "genre": "Bay Area, Local, Eclectic",
+      "host": "DJ George",
+      "avatar": "images/team_george.png",
+      "tags": "San Francisco Indie • Surf Rock • Soul Grooves",
+      "time": "5:00 AM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    },
+    {
+      "title": "Retro Vibe",
+      "genre": "Electronic, New Wave, Synth",
+      "host": "DJ Marcus",
+      "avatar": "images/team_marcus_1778384887483.png",
+      "tags": "80s Retro Synth • Synthwave • Synthpop Revival",
+      "time": "4:30 PM",
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8"
+    },
+    {
+      "title": "Vinelands",
+      "genre": "Bay Area, Local, Eclectic",
+      "host": "DJ George",
+      "avatar": "images/team_george.png",
+      "tags": "San Francisco Indie • Surf Rock • Soul Grooves",
+      "time": "5:00 AM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    },
+    {
+      "title": "Retro Vibe",
+      "genre": "Electronic, New Wave, Synth",
+      "host": "DJ Marcus",
+      "avatar": "images/team_marcus_1778384887483.png",
+      "tags": "80s Retro Synth • Synthwave • Synthpop Revival",
+      "time": "4:30 PM",
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8"
+    },
+    {
+      "title": "Vinelands",
+      "genre": "Bay Area, Local, Eclectic",
+      "host": "DJ George",
+      "avatar": "images/team_george.png",
+      "tags": "San Francisco Indie • Surf Rock • Soul Grooves",
+      "time": "5:00 AM",
+      "streamUrl": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3"
+    }
+  ]
+}

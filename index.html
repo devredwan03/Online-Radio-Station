@@ -1,0 +1,887 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>VIBES RADIO - Live Radio</title>
+        
+        <!-- LCP Performance Preload Optimization -->
+        <link rel="preload" href="images/slide-1.jpg" as="image" fetchpriority="high">
+
+        <!-- Google Fonts -->
+        <link rel="preconnect" href="https://fonts.googleapis.com/">
+        <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&amp;family=Permanent+Marker&amp;family=Syncopate:wght@700&amp;family=Outfit:wght@300;400;500;600;700;800&amp;family=Roboto+Condensed:wght@300;400;700&amp;family=Roboto:wght@300;400;700&amp;family=Oswald:wght@300;400;700&amp;display=swap" rel="stylesheet">
+        
+        <!-- FontAwesome for Icons (Pro Kit from old-paper) -->
+        <script src="../../../kit.fontawesome.com/c8229936ec.js" crossorigin="anonymous"></script>
+
+        <!-- Custom Styles -->
+        <link rel="stylesheet" href="styles/style.css?v=2.6">
+    </head>
+    <body class="studio-page">
+
+        <div class="page-wrapper">
+            
+            <!-- HEADER SECTION -->
+            <header class="hero-header-section">
+                
+                <div class="site-header-nav-wrapper">
+                    <!-- 1. TOP UTILITY BAR (Hidden via CSS, kept in DOM for safety) -->
+                    <div class="top-utility-bar">
+                        <div class="top-bar-left">
+                            <span class="live-indicator">
+                                <svg class="icon-signal-stream" viewBox="0 0 640 640" fill="currentColor">
+                                    <path d="M130.5 124.3C137 130.3 137.4 140.4 131.5 146.9C89.6 192.5 64.1 253.3 64.1 320C64.1 386.7 89.5 447.5 131.4 493.1C137.4 499.6 136.9 509.7 130.4 515.7C123.9 521.7 113.8 521.2 107.8 514.7C60.8 463.5 32 395.1 32 320C32 244.9 60.8 176.5 107.9 125.2C113.9 118.7 124 118.3 130.5 124.2zM509.6 124.3C516.1 118.3 526.2 118.8 532.2 125.3C579.3 176.6 608.1 245 608.1 320.1C608.1 395.2 579.3 463.6 532.2 514.9C526.2 521.4 516.1 521.8 509.6 515.9C503.1 510 502.7 499.8 508.6 493.3C550.5 447.5 576 386.8 576 320C576 253.2 550.5 192.5 508.6 146.9C502.6 140.4 503.1 130.3 509.6 124.3zM256 320C256 284.7 284.7 256 320 256C355.3 256 384 284.7 384 320C384 355.3 355.3 384 320 384C284.7 384 256 355.3 256 320zM320 352C337.7 352 352 337.7 352 320C352 302.3 337.7 288 320 288C302.3 288 288 302.3 288 320C288 337.7 302.3 352 320 352zM217.2 219.2C191.7 245.2 176 280.7 176 320C176 359.3 191.7 394.8 217.2 420.8C223.4 427.1 223.3 437.2 217 443.4C210.7 449.6 200.6 449.5 194.4 443.2C163.2 411.5 144 368 144 320C144 272 163.2 228.5 194.3 196.8C200.5 190.5 210.6 190.4 216.9 196.6C223.2 202.8 223.3 212.9 217.1 219.2zM445.7 196.8C476.8 228.5 496 272 496 320C496 368 476.8 411.5 445.7 443.2C439.5 449.5 429.4 449.6 423.1 443.4C416.8 437.2 416.7 427.1 422.9 420.8C448.4 394.8 464.1 359.3 464.1 320C464.1 280.7 448.4 245.2 422.9 219.2C416.7 212.9 416.8 202.8 423.1 196.6C429.4 190.4 439.5 190.5 445.7 196.8z"/>
+                                </svg>
+                                ON AIR: <span class="top-air-station">AVAVA ONLINE</span>
+                            </span>
+                            <div class="top-bar-visualizer paused" id="top-visualizer">
+                                <span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span>
+                            </div>
+                        </div>
+                        <div class="top-bar-right">
+                            <div class="social-links">
+                                <a href="#" aria-label="Facebook"><svg viewBox="0 0 320 512" width="16" height="16" fill="currentColor"><path d="M279.1 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.4 0 225.4 0c-73.22 0-121.1 44.38-121.1 124.7v70.62H22.89V288h81.39v224h100.2V288z" /></svg></a>
+                                <a href="#" aria-label="Twitter"><svg viewBox="0 0 512 512" width="16" height="16" fill="currentColor"><path d="M459.4 151.7c.3 4.5 .3 9.1 .3 13.6 0 138.7-105.6 298.6-298.6 298.6-59.5 0-114.7-17.2-161.1-47.1 8.4 1 16.6 1.3 25.3 1.3 49.1 0 94.2-16.6 130.3-44.8-46.1-1-84.8-31.2-98.1-72.8 6.5 1 13 1.6 19.8 1.6 9.4 0 18.8-1.3 27.6-3.6-48.1-9.7-84.1-52-84.1-103v-1.3c14 7.8 30.2 12.7 47.4 13.3-28.3-18.8-46.8-51-46.8-87.4 0-19.5 5.2-37.4 14.3-53 51.7 63.7 129.3 105.3 216.4 109.8-1.6-7.8-2.6-15.9-2.6-24 0-57.8 46.8-104.9 104.9-104.9 30.2 0 57.5 12.7 76.7 33.1 23.7-4.5 46.5-13.3 66.6-25.3-7.8 24.4-24.4 44.8-46.1 57.8 21.1-2.3 41.6-8.1 60.4-16.2-14.3 20.8-32.2 39.3-52.6 54.3z" /></svg></a>
+                                <a href="#" aria-label="Instagram"><svg viewBox="0 0 448 512" width="16" height="16" fill="currentColor"><path d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z" /></svg></a>
+                                <a href="#" aria-label="YouTube"><svg viewBox="0 0 576 512" width="16" height="16" fill="currentColor"><path d="M549.7 124.1c-6.3-23.7-24.8-42.3-48.3-48.6C458.8 64 288 64 288 64S117.2 64 74.6 75.5c-23.5 6.3-42 24.9-48.3 48.6-11.4 42.9-11.4 132.3-11.4 132.3s0 89.4 11.4 132.3c6.3 23.7 24.8 41.5 48.3 47.8C117.2 448 288 448 288 448s170.8 0 213.4-11.5c23.5-6.3 42-24.2 48.3-47.8 11.4-42.9 11.4-132.3 11.4-132.3s0-89.4-11.4-132.3zm-317.5 213.5V175.2l142.7 81.2-142.7 81.2z" /></svg></a>
+                            </div>
+                        </div>
+                    </div>
+
+                                                        <div class="header-container">
+                    
+                    <!-- BRANDING LOGO (From Screenshot) -->
+                    <a href="index.html" class="navbar-logo logo">
+                        <img src="images/Logo_black.svg" alt="AVAVA Logo" class="logo-image-file">
+                    </a>
+                    
+                    <!-- MAIN NAVIGATION (From Screenshot) -->
+                    <ul class="nav-menu">
+                        <li class="nav-item active"><a href="index.html">HOME</a></li>
+                        <li class="nav-item "><a href="about.html">ABOUT</a></li>
+                        <li class="nav-item "><a href="stations.html">STATIONS</a></li>
+                        <li class="nav-item has-dropdown ">
+                            <a href="#">PAGES <i class="fa-solid fa-chevron-down dropdown-arrow"></i></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="streaming-achieve.html">STREAMING ARCHIVE</a></li>
+                                <li><a href="podcast.html">PODCASTS</a></li>
+                                <li><a href="shows.html">SHOWS</a></li>
+                                <li><a href="djs.html">DJS</a></li>
+                                <li><a href="schedule.html">SCHEDULE</a></li>
+                                <li><a href="donate.html">DONATE</a></li>
+                            </ul>
+                        </li>
+                        <li class="nav-item "><a href="blog.html">BLOG</a></li>
+                        <li class="nav-item "><a href="contact.html">CONTACT</a></li>
+                    </ul>
+
+                    <!-- HEADER ACTIONS (Language Selector left, Listen Live right) -->
+                    <div class="header-actions">
+                        <!-- Language Selector (To the left of Listen Live) -->
+                        <div class="lang-selector-wrapper">
+                            <button class="lang-selector-btn" aria-label="Select Language" aria-haspopup="listbox" aria-expanded="false">
+                                <div class="lang-flag-circle">
+                                    <img src="images/us.svg" alt="English" class="current-flag">
+                                </div>
+                            </button>
+                            <ul class="lang-dropdown" role="listbox">
+                                <li class="lang-option active" data-lang="en" role="option" aria-selected="true">
+                                    <div class="lang-flag-circle-option">
+                                        <img src="images/us.svg" alt="English">
+                                    </div>
+                                    <span>English</span>
+                                </li>
+                                <li class="lang-option" data-lang="de" role="option" aria-selected="false">
+                                    <div class="lang-flag-circle-option">
+                                        <img src="images/de.svg" alt="Deutsch">
+                                    </div>
+                                    <span>Deutsch</span>
+                                </li>
+                                <li class="lang-option" data-lang="fr" role="option" aria-selected="false">
+                                    <div class="lang-flag-circle-option">
+                                        <img src="images/fr.svg" alt="Français">
+                                    </div>
+                                    <span>Français</span>
+                                </li>
+                            </ul>
+                        </div>
+
+                        <!-- Listen Live Button -->
+                        <button class="nav-listen-btn listen-live-toggle" data-stream-url="https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3">
+                            <span>LISTEN LIVE</span>
+                            <div class="nav-btn-wave-icon">
+                                <span></span><span></span><span></span><span></span><span></span>
+                            </div>
+                        </button>
+
+                        <!-- Mobile Hamburger Menu Button -->
+                        <button class="mobile-menu-toggle" aria-label="Toggle Menu">
+                            <i class="fa-solid fa-bars"></i>
+                        </button>
+                    </div>
+                </div>
+                </div>
+
+                <!-- 3. HERO CONTENT SECTION (From Design) -->
+                <div class="hero-container">
+                    <div class="hero-text-content-new">
+                        <div class="hero-brand-title">
+                            <span class="hero-title-main">CHILL</span>
+                            <span class="hero-title-script">Vibes</span>
+                        </div>
+                        
+                        <div class="hero-subtitle-new">
+                            RELAX. UNWIND. <span class="text-teal">LISTEN.</span>
+                        </div>
+                        
+                        <div class="hero-divider-line"></div>
+                        
+                        <div class="hero-details-new">
+                            YOUR DAILY DOSE OF CHILL MUSIC<br>
+                            24/7 FROM AROUND THE WORLD
+                        </div>
+                        
+                        <div class="hero-buttons-new">
+                            <button class="hero-btn-play listen-live-toggle" id="hero-listen-btn" data-stream-url="https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3">
+                                <svg viewBox="0 0 24 24" class="hero-play-icon" fill="currentColor">
+                                    <path d="M8 5v14l11-7z"/>
+                                </svg>
+                                <span>LISTEN LIVE</span>
+                            </button>
+                            <a href="schedule.html" class="hero-btn-schedule">
+                                <span>VIEW SCHEDULE</span>
+                                <svg viewBox="0 0 24 24" class="hero-arrow-icon" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+                                    <line x1="5" y1="12" x2="19" y2="12"></line>
+                                    <polyline points="12 5 19 12 12 19"></polyline>
+                                </svg>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 4. FLOATING PLAYER WIDGET -->
+                <div class="floating-player-card rtp-floating-player rtp-layout-fullwidth rtp-design-vu-light" id="rt-player-card">
+                    
+
+                    <!-- Minimized View Bar -->
+                    <div class="rtp-minimized-bar">
+                        <div class="rtp-minimized-info" onclick="const card = document.getElementById('rt-player-card'); if (card) { card.classList.remove('rtp-minimized'); localStorage.setItem('rt_player_minimized', '0'); }">
+                            <div class="rtp-minimized-cover">
+                                <img src="images/tuner-image.jpg" alt="" class="rtp-minimized-cover-img">
+                            </div>
+                            <div class="rtp-minimized-meta">
+                                <span class="rtp-minimized-title">Smooth Jazz Vibes</span>
+                                <span class="rtp-minimized-desc">FM Dial Scanner</span>
+                            </div>
+                        </div>
+                        <div class="rtp-minimized-actions">
+                            <button class="rtp-minimized-play-btn" aria-label="Play/Pause">
+                                <i class="fa-solid fa-play"></i>
+                            </button>
+                            <button class="rtp-minimized-expand-btn" onclick="const card = document.getElementById('rt-player-card'); if (card) { card.classList.remove('rtp-minimized'); localStorage.setItem('rt_player_minimized', '0'); }" aria-label="Expand Player">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" width="16" height="16" fill="currentColor">
+                                    <path d="M240 96C248.8 96 256 103.2 256 112C256 120.8 248.8 128 240 128L128 128L128 240C128 248.8 120.8 256 112 256C103.2 256 96 248.8 96 240L96 112C96 103.2 103.2 96 112 96L240 96zM96 400C96 391.2 103.2 384 112 384C120.8 384 128 391.2 128 400L128 512L240 512C248.8 512 256 519.2 256 528C256 536.8 248.8 544 240 544L112 544C103.2 544 96 536.8 96 528L96 400zM528 96C536.8 96 544 103.2 544 112L544 240C544 248.8 536.8 256 528 256C519.2 256 512 248.8 512 240L512 128L400 128C391.2 128 384 120.8 384 112C384 103.2 391.2 96 400 96L528 96zM512 400C512 391.2 519.2 384 528 384C536.8 384 544 391.2 544 400L544 528C544 536.8 536.8 544 528 544L400 544C391.2 544 384 536.8 384 528C384 519.2 391.2 512 400 512L512 512L512 400z"/>
+                                </svg>
+                            </button>
+                        </div>
+                    </div>
+
+                    <!-- Player Left: Station info & playback control -->
+                    <div class="player-station-info">
+                        <div class="player-cover">
+                            <img src="images/tuner-image.jpg" alt="Station Cover" class="player-cover-img">
+                        </div>
+                        <div class="player-meta">
+                            <div class="live-status">
+                                <span class="live-dot"></span> LIVE ON AIR
+                            </div>
+                            <h3 class="track-title-name">Smooth Jazz Vibes</h3>
+                            <p class="track-artist-desc">The Best in Smooth Jazz</p>
+                            <div class="player-action-icons">
+                                <button class="icon-btn" aria-label="Add to Favorites"><i class="fa-regular fa-heart"></i></button>
+                                <button class="icon-btn" aria-label="Share"><i class="fa-solid fa-share-nodes"></i></button>
+                                <button class="icon-btn" aria-label="More Actions"><i class="fa-solid fa-ellipsis"></i></button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Player Center: Ruler / Tuning Scale -->
+                    <div class="player-tuner-section">
+                        <div class="tuner-header">
+                            <button class="tuner-arrow" id="btn-scale-left" aria-label="Tune Down">
+                                <i class="fa-solid fa-chevron-left"></i>
+                            </button>
+                            <div class="tuner-title">
+                                <span class="tuner-prefix">FM</span>
+                                <span class="active-station-freq">96.7</span>
+                                <span class="tuner-suffix">MHz</span>
+                            </div>
+                            <button class="tuner-arrow" id="btn-scale-right" aria-label="Tune Up">
+                                <i class="fa-solid fa-chevron-right"></i>
+                            </button>
+                        </div>
+
+                        <div class="tuner-scale-wrapper">
+                            <div class="tuner-scale-container" id="scale-container">
+                                <!-- SVG lines background -->
+                                <div class="tuner-lines"></div>
+                                
+                                <!-- Scale Labels -->
+                                <div class="tuner-labels">
+                                    <span>88</span>
+                                    <span>90</span>
+                                    <span>92</span>
+                                    <span>94</span>
+                                    <span>96</span>
+                                    <span>98</span>
+                                    <span>100</span>
+                                    <span>102</span>
+                                    <span>104</span>
+                                    <span>106</span>
+                                    <span>108</span>
+                                </div>
+
+                                <!-- Needle Pointer -->
+                                <div class="tuner-needle" id="radio-needle">
+                                    <span class="needle-line"></span>
+                                    <span class="needle-knob"></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Player Right: Controls & VU/Equalizer Section -->
+                    <div class="player-controls-section rtp-vu-meter-layout rtp-vu-active">
+                        <div class="rtp-vu-top-row">
+                            <div class="eq-status-indicator" id="eq-status-indicator">
+                                <span class="status-dot"></span>
+                                <span class="status-text">EQ Off</span>
+                            </div>
+                            <a href="#" class="rtp-vu-eq-toggle-link" onclick="event.preventDefault(); const card = this.closest('.floating-player-card'); const vu = card.querySelector('.vu-meters-container'); const eq = card.querySelector('.rtp-vu-equalizer-section'); const ctrl = card.querySelector('.player-controls-section'); if (vu.style.display !== 'none') { vu.style.display = 'none'; eq.style.display = 'flex'; this.innerText = 'VU INDICATORS'; ctrl.classList.remove('rtp-vu-active'); } else { vu.style.display = 'flex'; eq.style.display = 'none'; this.innerText = 'EQUALIZER'; ctrl.classList.add('rtp-vu-active'); }">EQUALIZER</a>
+                        </div>
+
+                        <div class="rtp-vu-middle-area">
+                            <!-- VU Meters -->
+                            <div class="vu-meters-container" style="display: flex;">
+                                <div class="vu-meter-box">
+                                    <div class="vu-dial-wrapper">
+                                        <svg class="vu-dial-svg" viewBox="0 0 300 150">
+                                            <defs>
+                                                <linearGradient id="vu-backlight-L" x1="0%" y1="0%" x2="0%" y2="100%">
+                                                    <stop offset="0%" stop-color="#fffbeb" />
+                                                    <stop offset="70%" stop-color="#fef3c7" />
+                                                    <stop offset="100%" stop-color="#fde68a" />
+                                                </linearGradient>
+                                                <radialGradient id="vu-bulb-L" cx="50%" cy="100%" r="60%">
+                                                    <stop offset="0%" stop-color="#ffedd5" stop-opacity="1" />
+                                                    <stop offset="50%" stop-color="#fed7aa" stop-opacity="0.8" />
+                                                    <stop offset="100%" stop-color="#ffedd5" stop-opacity="0" />
+                                                </radialGradient>
+                                            </defs>
+                                            <rect x="5" y="5" width="290" height="140" rx="8" fill="url(#vu-backlight-L)" stroke="#dddddd" stroke-width="1" />
+                                            <rect x="5" y="5" width="290" height="140" rx="8" fill="url(#vu-bulb-L)" pointer-events="none" />
+                                            
+                                            <g transform="translate(0, 23)">
+                                                <text x="35" y="25" class="vu-scale-sign" font-size="16" font-family="Outfit, sans-serif" font-weight="bold" fill="#333333" text-anchor="middle">-</text>
+                                                <text x="265" y="25" class="vu-scale-sign" font-size="16" font-family="Outfit, sans-serif" font-weight="bold" fill="#333333" text-anchor="middle">+</text>
+                                                <path d="M 58.1 72.8 A 120 120 0 0 1 158.4 30.2" fill="none" stroke="#111111" stroke-width="2.5" />
+                                                <path d="M 62.7 76.7 A 114 114 0 0 1 153.1 36.2" fill="none" stroke="#111111" stroke-width="0.8" />
+                                                <path d="M 158.4 30.2 A 120 120 0 0 1 206.3 44.0" fill="none" stroke="#dc2626" stroke-width="3.5" />
+                                                <path d="M 153.1 36.2 A 114 114 0 0 1 198.8 49.3" fill="none" stroke="#dc2626" stroke-width="1.2" />
+                                                <line x1="58.1" y1="72.8" x2="52.0" y2="67.7" stroke="#111111" stroke-width="1.8" />
+                                                <text x="44.0" y="58.0" font-size="11" font-weight="600" fill="#111111" text-anchor="middle">20</text>
+                                                <line x1="77.3" y1="58.0" x2="72.4" y2="52.2" stroke="#111111" stroke-width="1.5" />
+                                                <text x="64.0" y="44.0" font-size="11" font-weight="600" fill="#111111" text-anchor="middle">10</text>
+                                                <line x1="93.0" y1="49.9" x2="88.7" y2="43.7" stroke="#111111" stroke-width="1.5" />
+                                                <text x="83.0" y="36.0" font-size="11" font-weight="600" fill="#111111" text-anchor="middle">7</text>
+                                                <line x1="106.6" y1="44.9" x2="102.9" y2="38.5" stroke="#111111" stroke-width="1.5" />
+                                                <text x="99.0" y="30.0" font-size="11" font-weight="600" fill="#111111" text-anchor="middle">5</text>
+                                                <line x1="126.9" y1="39.6" x2="124.6" y2="32.9" stroke="#111111" stroke-width="1.5" />
+                                                <text x="122.0" y="24.0" font-size="11" font-weight="600" fill="#111111" text-anchor="middle">3</text>
+                                                <line x1="143.2" y1="36.9" x2="141.8" y2="30.1" stroke="#111111" stroke-width="1.5" />
+                                                <text x="140.0" y="21.0" font-size="11" font-weight="600" fill="#111111" text-anchor="middle">2</text>
+                                                <line x1="160.0" y1="35.3" x2="159.4" y2="28.5" stroke="#111111" stroke-width="1.5" />
+                                                <text x="159.0" y="20.0" font-size="11" font-weight="600" fill="#111111" text-anchor="middle">1</text>
+                                                <line x1="176.8" y1="34.9" x2="177.0" y2="28.1" stroke="#dc2626" stroke-width="1.8" />
+                                                <text x="178.0" y="19.0" font-size="11" font-weight="600" fill="#dc2626" text-anchor="middle">0</text>
+                                                <line x1="193.6" y1="35.8" x2="194.6" y2="29.0" stroke="#dc2626" stroke-width="1.5" />
+                                                <text x="198.0" y="21.0" font-size="11" font-weight="600" fill="#dc2626" text-anchor="middle">1</text>
+                                                <line x1="210.3" y1="37.8" x2="212.1" y2="31.2" stroke="#dc2626" stroke-width="1.5" />
+                                                <text x="218.0" y="26.0" font-size="11" font-weight="600" fill="#dc2626" text-anchor="middle">2</text>
+                                                <line x1="226.7" y1="41.1" x2="229.4" y2="34.6" stroke="#dc2626" stroke-width="1.8" />
+                                                <text x="237.0" y="32.0" font-size="11" font-weight="600" fill="#dc2626" text-anchor="middle">3</text>
+                                                
+                                                <line x1="67.3" y1="64.9" x2="62.4" y2="60.5" stroke="#a1a1aa" stroke-width="0.8" />
+                                                <line x1="84.9" y1="53.6" x2="81.2" y2="48.2" stroke="#a1a1aa" stroke-width="0.8" />
+                                                <line x1="99.7" y1="47.2" x2="96.1" y2="41.4" stroke="#a1a1aa" stroke-width="0.8" />
+                                                <line x1="117.8" y1="41.7" x2="114.9" y2="35.3" stroke="#a1a1aa" stroke-width="0.8" />
+                                                <line x1="133.5" y1="38.4" x2="131.5" y2="31.8" stroke="#a1a1aa" stroke-width="0.8" />
+                                                <line x1="149.9" y1="36.2" x2="148.8" y2="29.5" stroke="#a1a1aa" stroke-width="0.8" />
+                                                <line x1="183.5" y1="35.0" x2="184.2" y2="28.2" stroke="#dc2626" stroke-width="0.8" />
+                                                <line x1="200.3" y1="36.5" x2="201.7" y2="29.8" stroke="#dc2626" stroke-width="0.8" />
+                                                <line x1="216.9" y1="39.1" x2="219.1" y2="32.5" stroke="#dc2626" stroke-width="0.8" />
+                                                
+                                                <path d="M 73.4 85.7 A 100 100 0 0 1 157.0 50.2" fill="none" stroke="#111111" stroke-width="1.2" />
+                                                <line x1="73.4" y1="85.7" x2="77.2" y2="88.9" stroke="#111111" stroke-width="1" />
+                                                <text x="85.0" y="100.0" font-size="8.5" fill="#333333" text-anchor="middle">0</text>
+                                                <line x1="89.4" y1="73.3" x2="93.1" y2="76.2" stroke="#111111" stroke-width="1" />
+                                                <text x="98.0" y="87.0" font-size="8.5" fill="#333333" text-anchor="middle">20</text>
+                                                <line x1="107.5" y1="62.3" x2="111.0" y2="64.8" stroke="#111111" stroke-width="1" />
+                                                <text x="114.0" y="74.0" font-size="8.5" fill="#333333" text-anchor="middle">40</text>
+                                                <line x1="127.1" y1="53.9" x2="129.9" y2="56.0" stroke="#111111" stroke-width="1" />
+                                                <text x="133.0" y="65.0" font-size="8.5" fill="#333333" text-anchor="middle">60</text>
+                                                <line x1="147.2" y1="50.0" x2="148.6" y2="51.8" stroke="#111111" stroke-width="1" />
+                                                <text x="151.0" y="61.0" font-size="8.5" fill="#333333" text-anchor="middle">80</text>
+                                                <line x1="157.0" y1="50.2" x2="156.8" y2="52.2" stroke="#111111" stroke-width="1.2" />
+                                                <text x="175.0" y="62.0" font-size="8.5" fill="#333333" text-anchor="middle">100 %</text>
+                                                <text x="202.0" y="67.0" font-size="8" font-weight="bold" fill="#dc2626" text-anchor="middle">PEAK</text>
+                                                
+                                                <text x="150" y="90" font-size="20" font-family="Outfit, sans-serif" font-weight="800" fill="#222222" letter-spacing="1" text-anchor="middle">VU</text>
+                                                <g class="vu-needle-left" id="vu-needle-L" style="transform-origin: 150px 145px; transform: rotate(-50deg); transition: transform 0.1s ease-out;">
+                                                    <line x1="150" y1="145" x2="150" y2="32" stroke="#dc2626" stroke-width="1.3" />
+                                                    <circle cx="150" cy="145" r="5" fill="#111111" />
+                                                    <line x1="150" y1="145" x2="150" y2="258" stroke="transparent" stroke-width="1" />
+                                                </g>
+                                            </g>
+                                        </svg>
+                                    </div>
+                                </div>
+                                <div class="vu-meter-box">
+                                    <div class="vu-dial-wrapper">
+                                        <svg class="vu-dial-svg" viewBox="0 0 300 150">
+                                            <defs>
+                                                <linearGradient id="vu-backlight-R" x1="0%" y1="0%" x2="0%" y2="100%">
+                                                    <stop offset="0%" stop-color="#fffbeb" />
+                                                    <stop offset="70%" stop-color="#fef3c7" />
+                                                    <stop offset="100%" stop-color="#fde68a" />
+                                                </linearGradient>
+                                                <radialGradient id="vu-bulb-R" cx="50%" cy="100%" r="60%">
+                                                    <stop offset="0%" stop-color="#ffedd5" stop-opacity="1" />
+                                                    <stop offset="50%" stop-color="#fed7aa" stop-opacity="0.8" />
+                                                    <stop offset="100%" stop-color="#ffedd5" stop-opacity="0" />
+                                                </radialGradient>
+                                            </defs>
+                                            <rect x="5" y="5" width="290" height="140" rx="8" fill="url(#vu-backlight-R)" stroke="#dddddd" stroke-width="1" />
+                                            <rect x="5" y="5" width="290" height="140" rx="8" fill="url(#vu-bulb-R)" pointer-events="none" />
+                                            
+                                            <g transform="translate(0, 23)">
+                                                <text x="35" y="25" class="vu-scale-sign" font-size="16" font-family="Outfit, sans-serif" font-weight="bold" fill="#333333" text-anchor="middle">-</text>
+                                                <text x="265" y="25" class="vu-scale-sign" font-size="16" font-family="Outfit, sans-serif" font-weight="bold" fill="#333333" text-anchor="middle">+</text>
+                                                <path d="M 58.1 72.8 A 120 120 0 0 1 158.4 30.2" fill="none" stroke="#111111" stroke-width="2.5" />
+                                                <path d="M 62.7 76.7 A 114 114 0 0 1 153.1 36.2" fill="none" stroke="#111111" stroke-width="0.8" />
+                                                <path d="M 158.4 30.2 A 120 120 0 0 1 206.3 44.0" fill="none" stroke="#dc2626" stroke-width="3.5" />
+                                                <path d="M 153.1 36.2 A 114 114 0 0 1 198.8 49.3" fill="none" stroke="#dc2626" stroke-width="1.2" />
+                                                <line x1="58.1" y1="72.8" x2="52.0" y2="67.7" stroke="#111111" stroke-width="1.8" />
+                                                <text x="44.0" y="58.0" font-size="11" font-weight="600" fill="#111111" text-anchor="middle">20</text>
+                                                <line x1="77.3" y1="58.0" x2="72.4" y2="52.2" stroke="#111111" stroke-width="1.5" />
+                                                <text x="64.0" y="44.0" font-size="11" font-weight="600" fill="#111111" text-anchor="middle">10</text>
+                                                <line x1="93.0" y1="49.9" x2="88.7" y2="43.7" stroke="#111111" stroke-width="1.5" />
+                                                <text x="83.0" y="36.0" font-size="11" font-weight="600" fill="#111111" text-anchor="middle">7</text>
+                                                <line x1="106.6" y1="44.9" x2="102.9" y2="38.5" stroke="#111111" stroke-width="1.5" />
+                                                <text x="99.0" y="30.0" font-size="11" font-weight="600" fill="#111111" text-anchor="middle">5</text>
+                                                <line x1="126.9" y1="39.6" x2="124.6" y2="32.9" stroke="#111111" stroke-width="1.5" />
+                                                <text x="122.0" y="24.0" font-size="11" font-weight="600" fill="#111111" text-anchor="middle">3</text>
+                                                <line x1="143.2" y1="36.9" x2="141.8" y2="30.1" stroke="#111111" stroke-width="1.5" />
+                                                <text x="140.0" y="21.0" font-size="11" font-weight="600" fill="#111111" text-anchor="middle">2</text>
+                                                <line x1="160.0" y1="35.3" x2="159.4" y2="28.5" stroke="#111111" stroke-width="1.5" />
+                                                <text x="159.0" y="20.0" font-size="11" font-weight="600" fill="#111111" text-anchor="middle">1</text>
+                                                <line x1="176.8" y1="34.9" x2="177.0" y2="28.1" stroke="#dc2626" stroke-width="1.8" />
+                                                <text x="178.0" y="19.0" font-size="11" font-weight="600" fill="#dc2626" text-anchor="middle">0</text>
+                                                <line x1="193.6" y1="35.8" x2="194.6" y2="29.0" stroke="#dc2626" stroke-width="1.5" />
+                                                <text x="198.0" y="21.0" font-size="11" font-weight="600" fill="#dc2626" text-anchor="middle">1</text>
+                                                <line x1="210.3" y1="37.8" x2="212.1" y2="31.2" stroke="#dc2626" stroke-width="1.5" />
+                                                <text x="218.0" y="26.0" font-size="11" font-weight="600" fill="#dc2626" text-anchor="middle">2</text>
+                                                <line x1="226.7" y1="41.1" x2="229.4" y2="34.6" stroke="#dc2626" stroke-width="1.8" />
+                                                <text x="237.0" y="32.0" font-size="11" font-weight="600" fill="#dc2626" text-anchor="middle">3</text>
+                                                
+                                                <line x1="67.3" y1="64.9" x2="62.4" y2="60.5" stroke="#a1a1aa" stroke-width="0.8" />
+                                                <line x1="84.9" y1="53.6" x2="81.2" y2="48.2" stroke="#a1a1aa" stroke-width="0.8" />
+                                                <line x1="99.7" y1="47.2" x2="96.1" y2="41.4" stroke="#a1a1aa" stroke-width="0.8" />
+                                                <line x1="117.8" y1="41.7" x2="114.9" y2="35.3" stroke="#a1a1aa" stroke-width="0.8" />
+                                                <line x1="133.5" y1="38.4" x2="131.5" y2="31.8" stroke="#a1a1aa" stroke-width="0.8" />
+                                                <line x1="149.9" y1="36.2" x2="148.8" y2="29.5" stroke="#a1a1aa" stroke-width="0.8" />
+                                                <line x1="183.5" y1="35.0" x2="184.2" y2="28.2" stroke="#dc2626" stroke-width="0.8" />
+                                                <line x1="200.3" y1="36.5" x2="201.7" y2="29.8" stroke="#dc2626" stroke-width="0.8" />
+                                                <line x1="216.9" y1="39.1" x2="219.1" y2="32.5" stroke="#dc2626" stroke-width="0.8" />
+                                                
+                                                <path d="M 73.4 85.7 A 100 100 0 0 1 157.0 50.2" fill="none" stroke="#111111" stroke-width="1.2" />
+                                                <line x1="73.4" y1="85.7" x2="77.2" y2="88.9" stroke="#111111" stroke-width="1" />
+                                                <text x="85.0" y="100.0" font-size="8.5" fill="#333333" text-anchor="middle">0</text>
+                                                <line x1="89.4" y1="73.3" x2="93.1" y2="76.2" stroke="#111111" stroke-width="1" />
+                                                <text x="98.0" y="87.0" font-size="8.5" fill="#333333" text-anchor="middle">20</text>
+                                                <line x1="107.5" y1="62.3" x2="111.0" y2="64.8" stroke="#111111" stroke-width="1" />
+                                                <text x="114.0" y="74.0" font-size="8.5" fill="#333333" text-anchor="middle">40</text>
+                                                <line x1="127.1" y1="53.9" x2="129.9" y2="56.0" stroke="#111111" stroke-width="1" />
+                                                <text x="133.0" y="65.0" font-size="8.5" fill="#333333" text-anchor="middle">60</text>
+                                                <line x1="147.2" y1="50.0" x2="148.6" y2="51.8" stroke="#111111" stroke-width="1" />
+                                                <text x="151.0" y="61.0" font-size="8.5" fill="#333333" text-anchor="middle">80</text>
+                                                <line x1="157.0" y1="50.2" x2="156.8" y2="52.2" stroke="#111111" stroke-width="1.2" />
+                                                <text x="175.0" y="62.0" font-size="8.5" fill="#333333" text-anchor="middle">100 %</text>
+                                                <text x="202.0" y="67.0" font-size="8" font-weight="bold" fill="#dc2626" text-anchor="middle">PEAK</text>
+                                                
+                                                <text x="150" y="90" font-size="20" font-family="Outfit, sans-serif" font-weight="800" fill="#222222" letter-spacing="1" text-anchor="middle">VU</text>
+                                                <g class="vu-needle-right" id="vu-needle-R" style="transform-origin: 150px 145px; transform: rotate(-50deg); transition: transform 0.1s ease-out;">
+                                                    <line x1="150" y1="145" x2="150" y2="32" stroke="#dc2626" stroke-width="1.3" />
+                                                    <circle cx="150" cy="145" r="5" fill="#111111" />
+                                                    <line x1="150" y1="145" x2="150" y2="258" stroke="transparent" stroke-width="1" />
+                                                </g>
+                                            </g>
+                                        </svg>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Visual Equalizer (initially hidden) -->
+                            <div class="rtp-vu-equalizer-section" style="display: none;">
+                                <div class="rtp-vu-equalizer-bar">
+                                    <div class="equalizer-track rtp-vu-equalizer-track">
+                                        <div class="equalizer-handle rtp-vu-equalizer-handle" id="eq-handle-0"><span class="handle-dot"></span></div>
+                                    </div>
+                                    <div class="rtp-vu-equalizer-label">60</div>
+                                </div>
+                                <div class="rtp-vu-equalizer-bar">
+                                    <div class="equalizer-track rtp-vu-equalizer-track">
+                                        <div class="equalizer-handle rtp-vu-equalizer-handle" id="eq-handle-1"><span class="handle-dot"></span></div>
+                                    </div>
+                                    <div class="rtp-vu-equalizer-label">150</div>
+                                </div>
+                                <div class="rtp-vu-equalizer-bar">
+                                    <div class="equalizer-track rtp-vu-equalizer-track">
+                                        <div class="equalizer-handle rtp-vu-equalizer-handle" id="eq-handle-2"><span class="handle-dot"></span></div>
+                                    </div>
+                                    <div class="rtp-vu-equalizer-label">400</div>
+                                </div>
+                                <div class="rtp-vu-equalizer-bar">
+                                    <div class="equalizer-track rtp-vu-equalizer-track">
+                                        <div class="equalizer-handle rtp-vu-equalizer-handle" id="eq-handle-3"><span class="handle-dot"></span></div>
+                                    </div>
+                                    <div class="rtp-vu-equalizer-label">1K</div>
+                                </div>
+                                <div class="rtp-vu-equalizer-bar">
+                                    <div class="equalizer-track rtp-vu-equalizer-track">
+                                        <div class="equalizer-handle rtp-vu-equalizer-handle" id="eq-handle-4"><span class="handle-dot"></span></div>
+                                    </div>
+                                    <div class="rtp-vu-equalizer-label">2K</div>
+                                </div>
+                                <div class="rtp-vu-equalizer-bar">
+                                    <div class="equalizer-track rtp-vu-equalizer-track">
+                                        <div class="equalizer-handle rtp-vu-equalizer-handle" id="eq-handle-5"><span class="handle-dot"></span></div>
+                                    </div>
+                                    <div class="rtp-vu-equalizer-label">2.4K</div>
+                                </div>
+                                <div class="rtp-vu-equalizer-bar">
+                                    <div class="equalizer-track rtp-vu-equalizer-track">
+                                        <div class="equalizer-handle rtp-vu-equalizer-handle" id="eq-handle-6"><span class="handle-dot"></span></div>
+                                    </div>
+                                    <div class="rtp-vu-equalizer-label">6K</div>
+                                </div>
+                                <div class="rtp-vu-equalizer-bar">
+                                    <div class="equalizer-track rtp-vu-equalizer-track">
+                                        <div class="equalizer-handle rtp-vu-equalizer-handle" id="eq-handle-7"><span class="handle-dot"></span></div>
+                                    </div>
+                                    <div class="rtp-vu-equalizer-label">15K</div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Volume slider and play/pause controls -->
+                        <div class="player-volume-play-row">
+                            <button class="volume-icon-btn" id="volume-mute-btn" aria-label="Mute/Unmute">
+                                <svg class="icon-volume" viewBox="0 0 640 640" fill="currentColor">
+                                    <path d="M176 384L112 384C103.2 384 96 376.8 96 368L96 272C96 263.2 103.2 256 112 256L176 256C184.5 256 192.6 252.6 198.6 246.6L316.7 128.6C317.1 128.2 317.6 128 318.1 128C319.2 128 320 128.9 320 129.9L320 510C320 511.1 319.1 511.9 318.1 511.9C317.6 511.9 317.1 511.7 316.7 511.3L198.6 393.4C192.6 387.4 184.5 384 176 384zM176 224L112 224C85.5 224 64 245.5 64 272L64 368C64 394.5 85.5 416 112 416L176 416L294.1 534.1C300.5 540.5 309.1 544 318.1 544C336.8 544 352 528.8 352 510.1L352 130C352 111.3 336.8 96.1 318.1 96.1C309.1 96.1 300.5 99.7 294.1 106L176 224zM419.2 246.4C413.9 253.5 415.3 263.5 422.4 268.8C438 280.5 448 299.1 448 320C448 340.9 438 359.5 422.4 371.2C415.3 376.5 413.9 386.5 419.2 393.6C424.5 400.7 434.5 402.1 441.6 396.8C464.9 379.3 480 351.4 480 320C480 288.6 464.9 260.7 441.6 243.2C434.5 237.9 424.5 239.3 419.2 246.4zM506.2 171.9C499.4 166.3 489.3 167.2 483.7 174C478.1 180.8 479 190.9 485.8 196.5C521.4 225.9 544 270.3 544 320C544 369.7 521.4 414.1 485.8 443.4C479 449 478 459.1 483.7 465.9C489.4 472.7 499.4 473.7 506.2 468.1C548.8 432.9 576 379.6 576 320C576 260.4 548.8 207.1 506.2 171.9z"/>
+                                </svg>
+                            </button>
+                            <div class="volume-slider-wrapper">
+                                <input type="range" class="volume-slider" min="0" max="100" value="80" aria-label="Volume">
+                                <div class="volume-slider-fill"></div>
+                            </div>
+                            <button class="player-play-btn" id="player-play-btn" aria-label="Play/Pause">
+                                <i class="fa-solid fa-play"></i>
+                            </button>
+                        </div>
+
+                        
+                    </div>
+
+                </div>
+
+                <!-- 5. CATEGORY FILTER BAR -->
+                <section class="station-filters-section">
+                    <div class="filters-container">
+                        <button class="filter-pill active">ALL STATIONS</button>
+                        <button class="filter-pill">JAZZ</button>
+                        <button class="filter-pill">SOUL</button>
+                        <button class="filter-pill">CHILL</button>
+                        <button class="filter-pill">CLASSIC</button>
+                        <button class="filter-pill">LOUNGE</button>
+                        <button class="filter-pill">FUNK</button>
+                        <button class="filter-pill">LO-FI</button>
+                    </div>
+                </section>
+
+            </header>
+
+            <!-- EXPLORE STATIONS SECTION -->
+            <section class="stations-section" id="stations">
+                <div class="stations-grid">
+                    <!-- Classical Vibes -->
+                    <div class="station-card" data-station-id="classical">
+                        <div class="album-wrapper">
+                            <!-- Sleek Glassmorphic Listening Badge -->
+                            <div class="listening-badge">
+                                <svg class="waveform-icon" viewBox="0 0 24 24" fill="currentColor">
+                                    <rect x="3" y="10" width="3" height="4" rx="1.5" />
+                                    <rect x="9" y="6" width="3" height="12" rx="1.5" />
+                                    <rect x="15" y="3" width="3" height="18" rx="1.5" />
+                                    <rect x="21" y="8" width="3" height="8" rx="1.5" />
+                                </svg>
+                                <div class="css-waveform" style="display: none;">
+                                    <span></span><span></span><span></span><span></span><span></span>
+                                </div>
+                                <span class="listening-count">245K</span>
+                            </div>
+
+                            <!-- Vinyl Record -->
+                            <div class="vinyl-record">
+                                <div class="vinyl-center">
+                                    <img class="vinyl-label-img" src="images/Violino-black.png" alt="">
+                                </div>
+                            </div>
+
+                            <!-- Album Cover Image -->
+                            <div class="album-cover">
+                                <img class="station-img" src="images/Violino-black.png" alt="Classical Vibes" />
+                            </div>
+
+                            <!-- Play Button -->
+                            <button class="card-play-btn" data-stream-url="https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3?station=classical-index">
+                                <i class="fa-solid fa-play"></i>
+                            </button>
+                        </div>
+
+                        <!-- Details -->
+                        <div class="card-details">
+                            <h3 class="station-title">CLASSICAL VIBES</h3>
+                            <p class="station-subtitle">Relax &amp; Unwind</p>
+                        </div>
+                    </div>
+
+                    <!-- Top Hits -->
+                    <div class="station-card" data-station-id="tophits">
+                        <div class="album-wrapper">
+                            <!-- Sleek Glassmorphic Listening Badge -->
+                            <div class="listening-badge">
+                                <svg class="waveform-icon" viewBox="0 0 24 24" fill="currentColor">
+                                    <rect x="3" y="10" width="3" height="4" rx="1.5" />
+                                    <rect x="9" y="6" width="3" height="12" rx="1.5" />
+                                    <rect x="15" y="3" width="3" height="18" rx="1.5" />
+                                    <rect x="21" y="8" width="3" height="8" rx="1.5" />
+                                </svg>
+                                <div class="css-waveform" style="display: none;">
+                                    <span></span><span></span><span></span><span></span><span></span>
+                                </div>
+                                <span class="listening-count">245K</span>
+                            </div>
+
+                            <!-- Vinyl Record -->
+                            <div class="vinyl-record">
+                                <div class="vinyl-center">
+                                    <img class="vinyl-label-img" src="images/pop-black.png" alt="">
+                                </div>
+                            </div>
+
+                            <!-- Album Cover Image -->
+                            <div class="album-cover">
+                                <img class="station-img" src="images/pop-black.png" alt="Top Hits" />
+                            </div>
+
+                            <!-- Play Button -->
+                            <button class="card-play-btn" data-stream-url="http://strm112.1.fm/samba_mobile_mp3?station=samba-index">
+                                <i class="fa-solid fa-play"></i>
+                            </button>
+                        </div>
+
+                        <!-- Details -->
+                        <div class="card-details">
+                            <h3 class="station-title">TOP HITS</h3>
+                            <p class="station-subtitle">Top 40 &amp; Pop</p>
+                        </div>
+                    </div>
+
+                    <!-- Rock Live -->
+                    <div class="station-card" data-station-id="rock">
+                        <div class="album-wrapper">
+                            <!-- Sleek Glassmorphic Listening Badge -->
+                            <div class="listening-badge">
+                                <svg class="waveform-icon" viewBox="0 0 24 24" fill="currentColor">
+                                    <rect x="3" y="10" width="3" height="4" rx="1.5" />
+                                    <rect x="9" y="6" width="3" height="12" rx="1.5" />
+                                    <rect x="15" y="3" width="3" height="18" rx="1.5" />
+                                    <rect x="21" y="8" width="3" height="8" rx="1.5" />
+                                </svg>
+                                <div class="css-waveform" style="display: none;">
+                                    <span></span><span></span><span></span><span></span><span></span>
+                                </div>
+                                <span class="listening-count">245K</span>
+                            </div>
+
+                            <!-- Vinyl Record -->
+                            <div class="vinyl-record">
+                                <div class="vinyl-center">
+                                    <img class="vinyl-label-img" src="images/rock.png" alt="">
+                                </div>
+                            </div>
+
+                            <!-- Album Cover Image -->
+                            <div class="album-cover">
+                                <img class="station-img" src="images/rock.png" alt="Rock Live" />
+                            </div>
+
+                            <!-- Play Button -->
+                            <button class="card-play-btn" data-stream-url="https://icecast.omroep.nl/3fm-bb-mp3?station=rock-index">
+                                <i class="fa-solid fa-play"></i>
+                            </button>
+                        </div>
+
+                        <!-- Details -->
+                        <div class="card-details">
+                            <h3 class="station-title">ROCK LIVE</h3>
+                            <p class="station-subtitle">Loud &amp; Proud</p>
+                        </div>
+                    </div>
+
+                    <!-- Hip Hop -->
+                    <div class="station-card" data-station-id="hiphop">
+                        <div class="album-wrapper">
+                            <!-- Sleek Glassmorphic Listening Badge -->
+                            <div class="listening-badge">
+                                <svg class="waveform-icon" viewBox="0 0 24 24" fill="currentColor">
+                                    <rect x="3" y="10" width="3" height="4" rx="1.5" />
+                                    <rect x="9" y="6" width="3" height="12" rx="1.5" />
+                                    <rect x="15" y="3" width="3" height="18" rx="1.5" />
+                                    <rect x="21" y="8" width="3" height="8" rx="1.5" />
+                                </svg>
+                                <div class="css-waveform" style="display: none;">
+                                    <span></span><span></span><span></span><span></span><span></span>
+                                </div>
+                                <span class="listening-count">245K</span>
+                            </div>
+
+                            <!-- Vinyl Record -->
+                            <div class="vinyl-record">
+                                <div class="vinyl-center">
+                                    <img class="vinyl-label-img" src="images/hiphop-black.png" alt="">
+                                </div>
+                            </div>
+
+                            <!-- Album Cover Image -->
+                            <div class="album-cover">
+                                <img class="station-img" src="images/hiphop-black.png" alt="Hip Hop" />
+                            </div>
+
+                            <!-- Play Button -->
+                            <button class="card-play-btn" data-stream-url="https://icestreaming.rai.it/13.mp3?station=hiphop-index">
+                                <i class="fa-solid fa-play"></i>
+                            </button>
+                        </div>
+
+                        <!-- Details -->
+                        <div class="card-details">
+                            <h3 class="station-title">HIP HOP</h3>
+                            <p class="station-subtitle">Beats &amp; Flow</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="live-section">
+                <div class="stations-header">
+                    <div class="box-title">
+                        <span class="subtitle">ON AIR NOW</span>
+                        <h2 class="title">LIVE ON AVAVA</h2>
+                    </div>
+                    <a href="stations.html" class="view-all-link">
+                        VIEW ALL STATIONS
+                        <i class="fa-regular fa-arrow-right-long"></i>
+                    </a>
+                </div>
+
+                <div class="stations-grid two-cards">
+                    <!-- Live Stream 1 -->
+                    <div class="station-card">
+                        <div class="live-left">
+                            <img class="live-img" src="images/onair.png" alt="Chill Vibes" />
+                        </div>
+                        <div class="live-info">
+                            <div class="live-badge"><span class="dot"></span> LIVE</div>
+                            <div class="track-info">
+                                <h3>CLASSICAL VIBES</h3>
+                                <p>Relax &amp; Unwind</p>
+                            </div>
+                            <div class="play-wave-wrapper">
+                                <button class="card-play-btn" data-stream-url="https://icecast.omroep.nl/radio2-bb-mp3?station=radio2-index">
+                                    <i class="fa-light fa-play"></i>
+                                </button>
+                                <div class="waveforms">
+                                    <i class="fa-light fa-waveform-lines live-waveform"></i>
+                                    <i class="fa-light fa-waveform-lines live-waveform"></i>
+                                    <i class="fa-light fa-waveform-lines live-waveform"></i>
+                                    <div class="css-waveform">
+                                        <span></span><span></span><span></span><span></span><span></span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="live-time">02:45</div>
+                        </div>
+                    </div>
+
+                    <!-- Live Stream 2 -->
+                    <div class="station-card schedule-card">
+                        <div class="schedule-header">
+                            <h3><i class="fa-light fa-calendar-star"></i> Today's Lineup</h3>
+                            <a href="#">Full Schedule <i class="fa-regular fa-arrow-right"></i></a>
+                        </div>
+                        <ul class="schedule-list">
+                            <li class="schedule-item past">
+                                <div class="schedule-time">10:00 AM</div>
+                                <div class="schedule-info">
+                                    <h4>Morning AVAVA</h4>
+                                    <p>With Jack &amp; Lora</p>
+                                </div>
+                                <div class="schedule-badge">Morning</div>
+                            </li>
+                            <li class="schedule-item past">
+                                <div class="schedule-time">01:00 PM</div>
+                                <div class="schedule-info">
+                                    <h4>Urban Flow</h4>
+                                    <p>DJ Matt</p>
+                                </div>
+                                <div class="schedule-badge">Hip-Hop</div>
+                            </li>
+                            <li class="schedule-item active">
+                                <div class="schedule-time">04:00 PM</div>
+                                <div class="schedule-info">
+                                    <h4>The Weekend Trap</h4>
+                                    <p>Live from LA</p>
+                                </div>
+                                <div class="schedule-icon">
+                                    <i class="fa-light fa-waveform-lines"></i>
+                                </div>
+                            </li>
+                            <li class="schedule-item">
+                                <div class="schedule-time">06:00 PM</div>
+                                <div class="schedule-info">
+                                    <h4>Evenings with Vibe</h4>
+                                    <p>Chill &amp; Talk</p>
+                                </div>
+                                <button class="notify-btn"><i class="fa-light fa-bell"></i> Remind</button>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </section>
+
+            <!-- APP BANNER SECTION -->
+                <section class="app-banner-section">
+                    <div class="app-banner">
+                        <div class="banner-text">
+                            <h2>TAKE AVAVA</h2>
+                            <div class="title-with-apps">
+                                <h2 class="script-title">everywhere</h2>
+                                <div class="banner-apps">
+                                    <a href="#" class="app-btn-apple"><img src="images/app-store.svg" alt="Download on the App Store"></a>
+                                    <a href="#" class="app-btn-google"><img src="images/google-play.svg" alt="Get it on Google Play"></a>
+                                </div>
+                            </div>
+                            <p>Stream your favorite live shows, exclusive DJ sets, and top hits 24/7. Download the AVAVA app to take the ultimate radio experience wherever you go.<br>Don't miss a beat—listen on any device and stay connected to the music that moves you, anytime, anywhere. Experience high-fidelity audio, personalized recommendations, and offline listening. Stay tuned with breaking news, exclusive interviews, and curated playlists designed to match every mood and moment perfectly.</p>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- FOOTER SECTION -->
+                <footer class="site-footer">
+                    <div class="footer-columns">
+                        <div class="footer-col footer-col-logo">
+                            <div class="footer-logo">
+                                <img src="images/Logo_footer.svg" alt="AVAVA Logo" class="footer-logo-img">
+                            </div>
+                            <p class="footer-tagline">Live. Loud. Real.<br>Your sound. Your wave.</p>
+                            <div class="social-icons">
+                                <a href="#" class="social-btn fb-icon"><svg viewBox="0 0 320 512" width="18" height="18" fill="currentColor"><path d="M279.1 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.4 0 225.4 0c-73.22 0-121.1 44.38-121.1 124.7v70.62H22.89V288h81.39v224h100.2V288z" /></svg></a>
+                                <a href="#" class="social-btn ig-icon"><svg viewBox="0 0 448 512" width="18" height="18" fill="currentColor"><path d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z" /></svg></a>
+                                <a href="#" class="social-btn tt-icon"><svg viewBox="0 0 512 512" width="18" height="18" fill="currentColor"><path d="M459.4 151.7c.3 4.5 .3 9.1 .3 13.6 0 138.7-105.6 298.6-298.6 298.6-59.5 0-114.7-17.2-161.1-47.1 8.4 1 16.6 1.3 25.3 1.3 49.1 0 94.2-16.6 130.3-44.8-46.1-1-84.8-31.2-98.1-72.8 6.5 1 13 1.6 19.8 1.6 9.4 0 18.8-1.3 27.6-3.6-48.1-9.7-84.1-52-84.1-103v-1.3c14 7.8 30.2 12.7 47.4 13.3-28.3-18.8-46.8-51-46.8-87.4 0-19.5 5.2-37.4 14.3-53 51.7 63.7 129.3 105.3 216.4 109.8-1.6-7.8-2.6-15.9-2.6-24 0-57.8 46.8-104.9 104.9-104.9 30.2 0 57.5 12.7 76.7 33.1 23.7-4.5 46.5-13.3 66.6-25.3-7.8 24.4-24.4 44.8-46.1 57.8 21.1-2.3 41.6-8.1 60.4-16.2-14.3 20.8-32.2 39.3-52.6 54.3z" /></svg></a>
+                                <a href="#" class="social-btn yt-icon"><svg viewBox="0 0 576 512" width="18" height="18" fill="currentColor"><path d="M549.7 124.1c-6.3-23.7-24.8-42.3-48.3-48.6C458.8 64 288 64 288 64S117.2 64 74.6 75.5c-23.5 6.3-42 24.9-48.3 48.6-11.4 42.9-11.4 132.3-11.4 132.3s0 89.4 11.4 132.3c6.3 23.7 24.8 41.5 48.3 47.8C117.2 448 288 448 288 448s170.8 0 213.4-11.5c23.5-6.3 42-24.2 48.3-47.8 11.4-42.9 11.4-132.3 11.4-132.3s0-89.4-11.4-132.3zm-317.5 213.5V175.2l142.7 81.2-142.7 81.2z" /></svg></a>
+                            </div>
+                        </div>
+
+                        <div class="footer-col footer-col-links">
+                            <h4>QUICK LINKS</h4>
+                            <ul>
+
+                                <li><a href="index.html">Home</a></li>
+                                <li><a href="stations.html">Stations</a></li>
+                                <li><a href="about.html">About</a></li>
+                                <li><a href="blog.html">Blog</a></li>
+                                <li><a href="playlist.html">Playlist</a></li>
+                            
+    </ul>
+                        </div>
+
+                        <div class="footer-col footer-col-support">
+                            <h4>SUPPORT</h4>
+                            <ul>
+                                <li><a href="#">Help Center</a></li>
+                                <li><a href="contact.html">Contact</a></li>
+                                <li><a href="donate.html">Donate</a></li>
+                                <li><a href="#">Privacy Policy</a></li>
+                                <li><a href="#">Terms of Use</a></li>
+    </ul>
+                        </div>
+
+                        <div class="footer-col footer-col-newsletter">
+                            <h4>NEWSLETTER</h4>
+                            <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+                            <form class="newsletter-form">
+                                <input type="email" name="newsletter_email" id="newsletter_email" placeholder="Enter your email" required>
+                                <button type="submit">SUBSCRIBE</button>
+                            </form>
+                        </div>
+                    </div>
+
+                    <div class="footer-bottom">
+                        <p class="copyright-text"> <i class="fa-solid fa-heart"></i> Copyright <i class="fa-regular fa-copyright"></i> 2026. All rights Reserved.</p>
+                        <div class="scroll-top-btn">
+                            <i class="fa-light fa-circle-arrow-up"></i>
+                        </div>
+                    </div>
+                </footer>
+
+        </div>
+
+        <!-- MOBILE NAVIGATION OVERLAY -->
+        <div class="mobile-nav-overlay" id="mobile-menu">
+            <button class="mobile-menu-close" aria-label="Close Menu">
+                <i class="fa-solid fa-xmark"></i>
+            </button>
+            <ul class="mobile-menu-items">
+                <li class="mobile-nav-item active"><a href="index.html">HOME</a></li>
+                <li class="mobile-nav-item"><a href="about.html">ABOUT</a></li>
+                <li class="mobile-nav-item"><a href="stations.html">STATIONS</a></li>
+                <li class="mobile-nav-item"><a href="playlist.html">PLAYLIST</a></li>
+                <li class="mobile-nav-item"><a href="blog.html">BLOG</a></li>
+                <li class="mobile-nav-item"><a href="contact.html">CONTACT</a></li>
+                <li class="mobile-nav-item"><a href="donate.html">DONATE</a></li>
+            </ul>
+        </div>
+
+        <!-- Script References -->
+        <script src="js/radiof3ee.js?v=3.2"></script>
+        <script src="js/station-cards.js"></script>
+        <script src="js/mainf3ee.js?v=3.2"></script>
+
+    </body>
+
+</html>

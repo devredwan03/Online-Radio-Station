@@ -1,0 +1,122 @@
+[
+  {
+    "frequency": 96.7,
+    "url": "https://streaming.exclusive.radio/uber/easyfranksinatra/icecast.audio",
+    "image": "images/vinil/jazz/jazz-1.png",
+    "name": "Smooth Jazz Cafe",
+    "genre": "Jazz",
+    "subtitle": "Late Night Sessions",
+    "plays": 1235,
+    "likes": 84
+  },
+  {
+    "frequency": 98.1,
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR22_s01AAC.aac?station=jazz-2",
+    "image": "images/vinil/jazz/jazz-2.png",
+    "name": "Midnight Blue Jazz",
+    "genre": "Jazz",
+    "subtitle": "Chill & Relax",
+    "plays": 1050,
+    "likes": 75
+  },
+  {
+    "frequency": 102.1,
+    "url": "https://streaming.exclusive.radio/uber/easytonybennett/icecast.audio",
+    "image": "images/vinil/jazz/jazz-5.png",
+    "name": "Vocal Standards",
+    "genre": "Jazz",
+    "subtitle": "Timeless Classics",
+    "plays": 650,
+    "likes": 42
+  },
+  {
+    "frequency": 104.7,
+    "url": "https://101smoothjazz.cdnstream1.com/b22139_128mp3",
+    "image": "images/vinil/jazz/jazz-7.png",
+    "name": "Classic Swing Jazz",
+    "genre": "Jazz",
+    "subtitle": "Big Band Swing",
+    "plays": 490,
+    "likes": 32
+  },
+  {
+    "frequency": 106.1,
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR22_s01AAC.aac?station=jazz-8",
+    "image": "images/vinil/jazz/jazz-8.png",
+    "name": "Acid Jazz Groove",
+    "genre": "Jazz",
+    "subtitle": "Funky Jazz Beats",
+    "plays": 720,
+    "likes": 50
+  },
+  {
+    "frequency": 89.3,
+    "url": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3?station=soul-2",
+    "image": "images/vinil/classical/classical-7.png",
+    "name": "Neo-Soul Sessions",
+    "genre": "Soul",
+    "subtitle": "Smooth Neo-Soul",
+    "plays": 980,
+    "likes": 72
+  },
+  {
+    "frequency": 95.1,
+    "url": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3?station=soul-6",
+    "image": "images/vinil/classical/classical-3.png",
+    "name": "Philly Soul Classics",
+    "genre": "Soul",
+    "subtitle": "Sweeping Orchestrations",
+    "plays": 610,
+    "likes": 40
+  },
+  {
+    "frequency": 94.7,
+    "url": "https://icecast.omroep.nl/radio2-bb-mp3?station=chill-1",
+    "image": "images/vinil/chill/chill-1.png",
+    "name": "Lo-Fi Beats Lounge",
+    "genre": "Chill",
+    "subtitle": "Chill Lo-Fi Study Beats",
+    "plays": 1340,
+    "likes": 95
+  },
+  {
+    "frequency": 101.1,
+    "url": "https://icecast.omroep.nl/radio2-bb-mp3?station=chill-4",
+    "image": "images/vinil/chill/chill-4.png",
+    "name": "Dreamy Wave",
+    "genre": "Chill",
+    "subtitle": "Dreamy Ambient Wave",
+    "plays": 810,
+    "likes": 55
+  },
+  {
+    "frequency": 90.1,
+    "url": "https://icecast.omroep.nl/radio4-bb-mp3?station=classic-2",
+    "image": "images/vinil/classical/classical-2.png",
+    "name": "Classical Symphonies",
+    "genre": "Classic",
+    "subtitle": "Masterpieces of Music",
+    "plays": 915,
+    "likes": 62
+  },
+  {
+    "frequency": 106.7,
+    "url": "https://icecast.omroep.nl/radio4-bb-mp3?station=classic-5",
+    "image": "images/vinil/classical/classical-5.png",
+    "name": "Cinematic Symphony",
+    "genre": "Classic",
+    "subtitle": "Epic Cinematic Soundtracks",
+    "plays": 680,
+    "likes": 39
+  },
+  {
+    "frequency": 94.1,
+    "url": "http://strm112.1.fm/samba_mobile_mp3?station=samba-index",
+    "image": "images/brasil-samba.png",
+    "name": "Brasil Radio",
+    "genre": "Samba",
+    "subtitle": "Top 40 & Music",
+    "plays": 657,
+    "likes": 41
+  }
+]
